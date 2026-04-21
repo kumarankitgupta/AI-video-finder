@@ -1,0 +1,85 @@
+{
+  "ts": 1776340113.947975,
+  "results": [
+    {
+      "title": "Learn CSS Flexbox in 20 Minutes (Course)",
+      "url": "https://www.youtube.com/watch?v=wsTv9y931o8",
+      "duration": "20:37",
+      "channel": "Coding2GO",
+      "system_score": 0.81,
+      "ai_score": 0.82,
+      "final_score": 0.814,
+      "reason": "A solid 20-minute pace that viewers find well-structured for a first-time introduction to responsive layouts.",
+      "summary": [
+        "How to align items inside a box",
+        "Ways to change the direction of content",
+        "Making items grow or shrink to fit",
+        "Building a simple layout from scratch"
+      ]
+    },
+    {
+      "title": "Learn flexbox the easy way",
+      "url": "https://www.youtube.com/watch?v=u044iM9xsWU",
+      "duration": "34:04",
+      "channel": "Kevin Powell",
+      "system_score": 0.664,
+      "ai_score": 0.96,
+      "final_score": 0.782,
+      "reason": "The best choice for deep understanding; comments emphasize that he explains the 'flex behavior' rather than just syntax.",
+      "summary": [
+        "Understanding how flexible boxes work together",
+        "Controlling space between different website elements",
+        "Fixing common mistakes beginners often make",
+        "Creating layouts that look good on mobile"
+      ]
+    },
+    {
+      "title": "Learn Flexbox in 15 Minutes",
+      "url": "https://www.youtube.com/watch?v=fYq5PXgSsbE",
+      "duration": "15:12",
+      "channel": "Web Dev Simplified",
+      "system_score": 0.669,
+      "ai_score": 0.94,
+      "final_score": 0.777,
+      "reason": "Widely considered the gold standard for clarity, with comments highlighting the instructor's ability to simplify complex mental models.",
+      "summary": [
+        "The most important settings for flex containers",
+        "How to center items perfectly every time",
+        "Moving elements to the start or end",
+        "Using shorthand code to work much faster"
+      ]
+    },
+    {
+      "title": "Learn CSS flexbox in 10 minutes! \ud83d\udcaa",
+      "url": "https://www.youtube.com/watch?v=GteJWhCikCk",
+      "duration": "10:01",
+      "channel": "Bro Code",
+      "system_score": 0.688,
+      "ai_score": 0.88,
+      "final_score": 0.765,
+      "reason": "Bro Code's signature structured style and timestamped breakdown are highly praised by beginners for ease of navigation.",
+      "summary": [
+        "Quick steps to start using flexbox today",
+        "Changing the order of items easily",
+        "Stacking elements vertically or horizontally",
+        "Distributing extra space inside a container"
+      ]
+    },
+    {
+      "title": "Learn Flexbox CSS in 8 minutes",
+      "url": "https://www.youtube.com/watch?v=phWxA89Dy94",
+      "duration": "8:16",
+      "channel": "Slaying The Dragon",
+      "system_score": 0.75,
+      "ai_score": 0.78,
+      "final_score": 0.762,
+      "reason": "Highly efficient visual editing makes it excellent for quick learners, though it sacrifices some 'why' for speed.",
+      "summary": [
+        "Visual guide to how flexbox properties work",
+        "Simple tricks for spacing out your content",
+        "How to wrap items onto new lines",
+        "Mastering the basics in a short time"
+      ]
+    }
+  ]
+}

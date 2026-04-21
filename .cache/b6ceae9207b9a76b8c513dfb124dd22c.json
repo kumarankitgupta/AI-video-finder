@@ -1,0 +1,85 @@
+{
+  "ts": 1776403795.0844631,
+  "results": [
+    {
+      "title": "Claude + Figma MCP \u2014 Updated Setup for Designers",
+      "url": "https://www.youtube.com/watch?v=wCvtTQ-CTgU",
+      "duration": "19:31",
+      "channel": "Nehmat Gereige | AI-Design Professor",
+      "system_score": 0.636,
+      "ai_score": 0.98,
+      "final_score": 0.774,
+      "reason": "The most comprehensive 'updated' tutorial specifically for designers, addressing common setup hurdles and recent interface changes.",
+      "summary": [
+        "Connect AI tools directly to your design files",
+        "Automate repetitive tasks to save design time",
+        "Update your workspace with the latest AI features",
+        "Improve your workflow with smart design assistants"
+      ]
+    },
+    {
+      "title": "Figma to Webflow using Claude MCP (EASY!)",
+      "url": "https://www.youtube.com/watch?v=Yu43-Aw7oC0",
+      "duration": "7:51",
+      "channel": "Flux Academy",
+      "system_score": 0.749,
+      "ai_score": 0.78,
+      "final_score": 0.761,
+      "reason": "Flux Academy provides a highly accessible, workflow-oriented guide that simplifies the complex Figma-to-Webflow bridge for beginners.",
+      "summary": [
+        "Turn your visual designs into working websites",
+        "Move data between design and building tools",
+        "Create professional web layouts without manual coding",
+        "Speed up the process of launching new pages"
+      ]
+    },
+    {
+      "title": "Connect Claude to Figma with MCP",
+      "url": "https://www.youtube.com/watch?v=aQ3vOzsuHIs",
+      "duration": "13:43",
+      "channel": "TD Sunshine",
+      "system_score": 0.646,
+      "ai_score": 0.9,
+      "final_score": 0.747,
+      "reason": "Excellent beginner resource that defines terms like 'Claude Code' vs 'Sonnet' and uses chapters to help users navigate the setup process.",
+      "summary": [
+        "Link your AI chat to your Figma account",
+        "Give the AI permission to see your designs",
+        "Use simple commands to edit your project files",
+        "Set up the connection step by step easily"
+      ]
+    },
+    {
+      "title": "Figma MCP AI Course for Beginners (Design to Code with Context)",
+      "url": "https://www.youtube.com/watch?v=_NpooO3vuqI",
+      "duration": "10:38",
+      "channel": "The Cutting Edge School",
+      "system_score": 0.627,
+      "ai_score": 0.9,
+      "final_score": 0.736,
+      "reason": "Structured specifically as a 'course for beginners,' making it the most pedagogically sound starting point for new users.",
+      "summary": [
+        "Learn how AI understands your design context",
+        "Convert visual elements into clean computer code",
+        "Build apps faster using smart AI shortcuts",
+        "Master the basics of AI-driven design work"
+      ]
+    },
+    {
+      "title": "Figma MCP + Cursor \u2014 Full Tutorial",
+      "url": "https://www.youtube.com/watch?v=PPqt_xLg_5c",
+      "duration": "13:47",
+      "channel": "Sergei Chyrkov",
+      "system_score": 0.626,
+      "ai_score": 0.88,
+      "final_score": 0.727,
+      "reason": "A very clear, step-by-step technical setup guide for Cursor users that delivers exactly what the title promises.",
+      "summary": [
+        "Combine design tools with a smart code editor",
+        "Build entire websites from a single design file",
+        "Sync your creative work with technical development",
+        "Follow a full guide to finish your project"
+      ]
+    }
+  ]
+}

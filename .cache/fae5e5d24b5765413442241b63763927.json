@@ -1,0 +1,85 @@
+{
+  "ts": 1776362829.548379,
+  "results": [
+    {
+      "title": "JavaScript Course for Beginners \u2013 Your First Step to Web Development",
+      "url": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+      "duration": "48:17",
+      "channel": "Programming with Mosh",
+      "system_score": 0.784,
+      "ai_score": 0.9,
+      "final_score": 0.83,
+      "reason": "Mosh is highly praised in comments for his 'no-fluff' approach and logical progression from variables to functions, making it the gold standard for absolute beginners.",
+      "summary": [
+        "Learn how to set up your coding environment",
+        "Understand how to use variables and constants",
+        "Master basic data types like strings and numbers",
+        "Write your first simple programs using functions"
+      ]
+    },
+    {
+      "title": "JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue",
+      "url": "https://www.youtube.com/watch?v=eiC58R16hb8",
+      "duration": "12:35",
+      "channel": "Lydia Hallie",
+      "system_score": 0.643,
+      "ai_score": 0.88,
+      "final_score": 0.738,
+      "reason": "Lydia Hallie provides world-class visual explanations of the event loop, but this is an advanced 'core' concept that may overwhelm a total beginner.",
+      "summary": [
+        "See how code runs behind the scenes",
+        "Learn how the browser handles multiple tasks",
+        "Understand the order in which code executes",
+        "Discover how timers and web tools work"
+      ]
+    },
+    {
+      "title": "JavaScript tutorial for beginners \ud83c\udf10",
+      "url": "https://www.youtube.com/watch?v=Ihy0QziLDf0",
+      "duration": "12:03",
+      "channel": "Bro Code",
+      "system_score": 0.655,
+      "ai_score": 0.84,
+      "final_score": 0.729,
+      "reason": "Bro Code's structured environment setup and step-by-step HTML integration are specifically noted by viewers as being extremely easy to follow.",
+      "summary": [
+        "Get started with basic coding syntax quickly",
+        "Learn how to display messages to users",
+        "Understand how to store and change data",
+        "Build a foundation for making interactive websites"
+      ]
+    },
+    {
+      "title": "How JavaScript Works \ud83d\udd25& Execution Context | Namaste JavaScript Ep.1",
+      "url": "https://www.youtube.com/watch?v=ZvbzSrg0afE",
+      "duration": "4:54",
+      "channel": "Akshay Saini",
+      "system_score": 0.593,
+      "ai_score": 0.9,
+      "final_score": 0.716,
+      "reason": "Akshay Saini is legendary for explaining 'how' JS works (Execution Context), but it is more conceptual than a 'how to code' tutorial for a first-day beginner.",
+      "summary": [
+        "Learn how the computer reads your code",
+        "Understand the hidden box where code runs",
+        "Discover how variables are saved in memory",
+        "See the two phases of code execution"
+      ]
+    },
+    {
+      "title": "Learn All the JavaScript Basics in 20 Minutes",
+      "url": "https://www.youtube.com/watch?v=xKOyDDuQSVY",
+      "duration": "20:32",
+      "channel": "Coding2GO",
+      "system_score": 0.624,
+      "ai_score": 0.78,
+      "final_score": 0.686,
+      "reason": "A solid, concise alternative for those who find the 48-minute Mosh video too long; it covers the syntax basics efficiently.",
+      "summary": [
+        "Learn essential math and logic for coding",
+        "Understand how to make decisions with code",
+        "Master repeating tasks using simple loops",
+        "Get a fast overview of core concepts"
+      ]
+    }
+  ]
+}

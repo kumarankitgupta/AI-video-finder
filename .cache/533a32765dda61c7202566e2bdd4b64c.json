@@ -1,0 +1,85 @@
+{
+  "ts": 1776338052.3641338,
+  "results": [
+    {
+      "title": "Linear combinations, span, and basis vectors | Chapter 2, Essence of linear algebra",
+      "url": "https://www.youtube.com/watch?v=k7RM-ot2NWY",
+      "duration": "9:59",
+      "channel": "3Blue1Brown",
+      "system_score": 0.794,
+      "ai_score": 0.94,
+      "final_score": 0.853,
+      "reason": "Widely regarded as the gold standard for visual intuition, this video explains the 'why' behind span and basis vectors using high-quality animations.",
+      "summary": [
+        "How to scale and add two different vectors",
+        "The collection of all possible reachable points",
+        "Using basic building blocks to reach any spot",
+        "What happens when vectors line up or overlap"
+      ]
+    },
+    {
+      "title": "Linear transformations and matrices | Chapter 3, Essence of linear algebra",
+      "url": "https://www.youtube.com/watch?v=kYB8IZa5AuE",
+      "duration": "10:59",
+      "channel": "3Blue1Brown",
+      "system_score": 0.788,
+      "ai_score": 0.94,
+      "final_score": 0.849,
+      "reason": "The creator successfully recontextualizes matrices as geometric transformations, a shift that viewers frequently cite as a 'lightbulb moment' for beginners.",
+      "summary": [
+        "Moving space while keeping grid lines straight",
+        "How matrices act like functions for moving points",
+        "Tracking where the basic unit vectors land",
+        "Using numbers to describe a visual grid change"
+      ]
+    },
+    {
+      "title": "Eigenvectors and eigenvalues | Chapter 14, Essence of linear algebra",
+      "url": "https://www.youtube.com/watch?v=PFDu9oVAE-g",
+      "duration": "17:16",
+      "channel": "3Blue1Brown",
+      "system_score": 0.773,
+      "ai_score": 0.9,
+      "final_score": 0.824,
+      "reason": "While slightly more advanced (Chapter 14), it provides the most intuitive explanation of eigenvectors available, though beginners should watch earlier chapters first.",
+      "summary": [
+        "Finding special lines that do not rotate",
+        "Vectors that only stretch or shrink during change",
+        "The number that shows how much they stretch",
+        "Why these special vectors simplify complex math problems"
+      ]
+    },
+    {
+      "title": "The Big Picture of Linear Algebra",
+      "url": "https://www.youtube.com/watch?v=ggWYkes-n6E",
+      "duration": "15:57",
+      "channel": "MIT OpenCourseWare",
+      "system_score": 0.663,
+      "ai_score": 0.9,
+      "final_score": 0.758,
+      "reason": "Features Gilbert Strang, a legend in the field; while highly authoritative, his 'big picture' approach is often better appreciated after a few introductory lessons.",
+      "summary": [
+        "How four main spaces connect in one map",
+        "Solving equations by looking at column combinations",
+        "Understanding the inputs that result in zero",
+        "Seeing how rows and columns relate to each other"
+      ]
+    },
+    {
+      "title": "Dear linear algebra students, This is what matrices (and matrix manipulation) really look like",
+      "url": "https://www.youtube.com/watch?v=4csuTO7UTMo",
+      "duration": "16:26",
+      "channel": "Zach Star",
+      "system_score": 0.674,
+      "ai_score": 0.88,
+      "final_score": 0.756,
+      "reason": "Zach Star excels at connecting abstract matrix manipulation to physical reality, which viewers find extremely helpful for grounding their understanding.",
+      "summary": [
+        "Visualizing matrix math as a physical transformation",
+        "Why we multiply rows by columns in order",
+        "Seeing how data changes shape through a matrix",
+        "A better way to imagine abstract math rules"
+      ]
+    }
+  ]
+}

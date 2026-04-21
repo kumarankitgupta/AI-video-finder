@@ -1,0 +1,85 @@
+{
+  "ts": 1776362565.619392,
+  "results": [
+    {
+      "title": "Session 22 - Selenium with Java|Locators(ID,Name,LinkText,PartialLinkText,Class&Tag)",
+      "url": "https://www.youtube.com/watch?v=VuO7gUmYllY",
+      "duration": "1:12:23",
+      "channel": "SDET- QA",
+      "system_score": 0.731,
+      "ai_score": 0.82,
+      "final_score": 0.766,
+      "reason": "Highly structured session from a trusted QA series that methodically covers the most common basic locators for Java beginners.",
+      "summary": [
+        "Find web elements using basic identification methods",
+        "Use unique names and IDs to select items",
+        "Click links using their exact or partial text",
+        "Group similar elements using class and tag names"
+      ]
+    },
+    {
+      "title": "Session 24 - Selenium with Java | Locators - XPath | XPath Functions | XPath Types",
+      "url": "https://www.youtube.com/watch?v=kbmYMeoTg2Q",
+      "duration": "1:49:20",
+      "channel": "SDET- QA",
+      "system_score": 0.704,
+      "ai_score": 0.84,
+      "final_score": 0.758,
+      "reason": "Excellent deep dive into XPath, though the 109-minute duration might be overwhelming for a total beginner's first look.",
+      "summary": [
+        "Learn how to find elements using path expressions",
+        "Understand the difference between absolute and relative paths",
+        "Use special functions to find text and attributes",
+        "Handle complex web elements that change over time"
+      ]
+    },
+    {
+      "title": "Selenium 4 Beginner Tutorial 2 | Web Element Locators | Relative Locators | Step by Step",
+      "url": "https://www.youtube.com/watch?v=jb-5_QZpZk0",
+      "duration": "20:25",
+      "channel": "Automation Step by Step",
+      "system_score": 0.655,
+      "ai_score": 0.9,
+      "final_score": 0.753,
+      "reason": "Specifically covers Selenium 4's 'Relative Locators,' making it the most modern and relevant choice for new learners.",
+      "summary": [
+        "Find items based on where they are located",
+        "Identify elements above or below other specific items",
+        "Locate buttons or fields to the left or right",
+        "Use modern tools to simplify finding web objects"
+      ]
+    },
+    {
+      "title": "Selenium Framework for Beginners 5 |  How to find Web Elements Locators in Selenium",
+      "url": "https://www.youtube.com/watch?v=vzXdnYJNZDw",
+      "duration": "17:31",
+      "channel": "Automation Step by Step",
+      "system_score": 0.663,
+      "ai_score": 0.88,
+      "final_score": 0.75,
+      "reason": "Raghav Pal is renowned for extreme clarity and a 'step-by-step' approach that is perfect for absolute beginners.",
+      "summary": [
+        "Discover the best ways to identify web elements",
+        "Use browser tools to inspect page source code",
+        "Pick the most reliable method for finding objects",
+        "Practice basic steps to interact with a website"
+      ]
+    },
+    {
+      "title": "Selenium Locators - Part 1 | ID, Name, Link Text, Partial Link Test, Tag Name, Class & CSS Selector",
+      "url": "https://www.youtube.com/watch?v=HBOdscUwUnc",
+      "duration": "1:30:38",
+      "channel": "SDET- QA",
+      "system_score": 0.659,
+      "ai_score": 0.84,
+      "final_score": 0.731,
+      "reason": "A comprehensive 90-minute guide that bridges the gap between basic ID/Name locators and more complex CSS Selectors.",
+      "summary": [
+        "Learn the most common ways to find elements",
+        "Use names and IDs for fast element selection",
+        "Select items using specific styles and class names",
+        "Master simple patterns to locate any web button"
+      ]
+    }
+  ]
+}

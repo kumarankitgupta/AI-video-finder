@@ -1,0 +1,85 @@
+{
+  "ts": 1776319636.4789708,
+  "results": [
+    {
+      "title": "Every NBA ERA Explained In 31 Minutes",
+      "url": "https://www.youtube.com/watch?v=BDQJnXULVw0",
+      "duration": "31:07",
+      "channel": "bball explained",
+      "system_score": 0.733,
+      "ai_score": 0.82,
+      "final_score": 0.768,
+      "reason": "Provides excellent historical context for how the league and its championship series evolved across different eras.",
+      "summary": [
+        "How basketball rules changed over many decades",
+        "The biggest stars from every time period",
+        "How teams changed their style of play",
+        "Important moments that shaped the modern game"
+      ]
+    },
+    {
+      "title": "Everything You NEED To Know Before The NBA Playoffs",
+      "url": "https://www.youtube.com/watch?v=JsA8KOUIA68",
+      "duration": "21:19",
+      "channel": "BASKETBALLREACH",
+      "system_score": 0.662,
+      "ai_score": 0.86,
+      "final_score": 0.741,
+      "reason": "Explicitly designed as a primer for the postseason, making it highly effective for a beginner needing to understand the road to the Finals.",
+      "summary": [
+        "Which teams are the strongest this year",
+        "Key players who will decide the games",
+        "Important matchups to watch in the first round",
+        "Predictions for who will win the championship"
+      ]
+    },
+    {
+      "title": "How Does the NBA Work?",
+      "url": "https://www.youtube.com/watch?v=Kdvl9kQGisA",
+      "duration": "6:00",
+      "channel": "Snowman Sports Media",
+      "system_score": 0.62,
+      "ai_score": 0.9,
+      "final_score": 0.732,
+      "reason": "The best starting point for a beginner as it explains the league structure, teams, and the format leading to the Finals clearly.",
+      "summary": [
+        "How the league is split into groups",
+        "The way the regular season schedule works",
+        "How teams qualify for the yearly playoffs",
+        "The basic rules for winning the title"
+      ]
+    },
+    {
+      "title": "Playoff Mode - Just How Different Are the NBA Playoffs? An analysis\u2026",
+      "url": "https://www.youtube.com/watch?v=IfyQehz8dTg",
+      "duration": "16:47",
+      "channel": "Michael MacKelvie",
+      "system_score": 0.651,
+      "ai_score": 0.8,
+      "final_score": 0.711,
+      "reason": "Offers a high-quality analytical look at the differences between regular season and playoff basketball, though it may be slightly advanced for a total novice.",
+      "summary": [
+        "Why playoff games are harder than normal",
+        "How players change their effort and focus",
+        "The way coaches adjust their game plans",
+        "Why every single possession matters much more"
+      ]
+    },
+    {
+      "title": "How The 2016 NBA Finals Changed Everything",
+      "url": "https://www.youtube.com/watch?v=ev-Udsu7rYM",
+      "duration": "13:23",
+      "channel": "Post2k",
+      "system_score": 0.76,
+      "ai_score": 0.62,
+      "final_score": 0.704,
+      "reason": "While it captures the drama of the 2016 Finals, it functions more as a narrative recap than a structural explanation of the Finals format.",
+      "summary": [
+        "The story of a historic championship comeback",
+        "How one series changed player reputations forever",
+        "The impact on how teams build rosters",
+        "Why this moment defined a new era"
+      ]
+    }
+  ]
+}

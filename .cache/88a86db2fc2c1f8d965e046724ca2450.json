@@ -1,0 +1,85 @@
+{
+  "ts": 1776362156.01885,
+  "results": [
+    {
+      "title": "Large Language Models explained briefly",
+      "url": "https://www.youtube.com/watch?v=LPZh9BOjkQs",
+      "duration": "7:58",
+      "channel": "3Blue1Brown",
+      "system_score": 0.727,
+      "ai_score": 0.94,
+      "final_score": 0.812,
+      "reason": "Widely praised for making complex concepts intuitive through exceptional visual storytelling and a gentle introductory pace.",
+      "summary": [
+        "How computers predict the next word in text",
+        "The way machines turn words into lists of numbers",
+        "How models learn patterns from massive amounts of data",
+        "Why these systems feel like they are actually thinking"
+      ]
+    },
+    {
+      "title": "Transformers, the tech behind LLMs | Deep Learning Chapter 5",
+      "url": "https://www.youtube.com/watch?v=wjZofJX0v4M",
+      "duration": "27:14",
+      "channel": "3Blue1Brown",
+      "system_score": 0.718,
+      "ai_score": 0.92,
+      "final_score": 0.799,
+      "reason": "The gold standard for deep conceptual understanding, though the 27-minute length and technical detail may challenge absolute beginners.",
+      "summary": [
+        "How parts of a sentence connect to each other",
+        "The process of giving words specific mathematical meanings",
+        "How the system focuses on the most important information",
+        "The step-by-step math that powers modern artificial intelligence"
+      ]
+    },
+    {
+      "title": "Generative AI in a Nutshell - how to survive and thrive in the age of AI",
+      "url": "https://www.youtube.com/watch?v=2IK3DFHRFfw",
+      "duration": "17:57",
+      "channel": "Henrik Kniberg",
+      "system_score": 0.642,
+      "ai_score": 0.86,
+      "final_score": 0.729,
+      "reason": "Uses a unique 'drawing and talking' style that viewers find highly engaging and easy to follow for a broad overview.",
+      "summary": [
+        "Basic concepts of how creative AI tools work",
+        "Ways to use AI to finish tasks much faster",
+        "How to stay relevant as technology changes quickly",
+        "The risks and benefits of using AI every day"
+      ]
+    },
+    {
+      "title": "You\u2019re Not Behind (Yet): How to Learn AI in 17 Minutes",
+      "url": "https://www.youtube.com/watch?v=EWFFaKxsz_s",
+      "duration": "17:22",
+      "channel": "theMITmonk",
+      "system_score": 0.752,
+      "ai_score": 0.66,
+      "final_score": 0.715,
+      "reason": "Focuses more on the mindset and learning path for AI rather than the technical mechanics of how LLMs function.",
+      "summary": [
+        "A simple roadmap for starting your AI journey",
+        "Why you still have time to learn these tools",
+        "The best free resources to help you improve fast",
+        "How to focus on skills that matter for jobs"
+      ]
+    },
+    {
+      "title": "LLMs \u2014 How ChatGPT works & What is RAG? | Retrieval-Augmented Generation Explained \ud83d\udd25",
+      "url": "https://www.youtube.com/watch?v=hYZKrPOyEYk",
+      "duration": "15:25",
+      "channel": "CodeWithHarry",
+      "system_score": 0.64,
+      "ai_score": 0.8,
+      "final_score": 0.704,
+      "reason": "Good bridge between theory and application, specifically explaining RAG which is highly relevant for modern LLM use.",
+      "summary": [
+        "The basic logic behind how ChatGPT answers questions",
+        "How to give AI access to your own files",
+        "Ways to stop the AI from making things up",
+        "How to connect live data to a smart model"
+      ]
+    }
+  ]
+}

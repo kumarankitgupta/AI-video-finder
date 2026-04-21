@@ -1,0 +1,85 @@
+{
+  "ts": 1776320853.149894,
+  "results": [
+    {
+      "title": "How to Write a Product Requirements Document - Create PRD | Free Notion Template",
+      "url": "https://www.youtube.com/watch?v=JJzODsXsCt0",
+      "duration": "8:33",
+      "channel": "HelloPM",
+      "system_score": 0.559,
+      "ai_score": 0.92,
+      "final_score": 0.703,
+      "reason": "Best overall match for beginners, offering a structured template and clear explanation of the document's purpose in a concise format.",
+      "summary": [
+        "Learn the basic parts of a product document",
+        "Understand how to define goals and user needs",
+        "Follow a step by step guide using Notion",
+        "Get a free template to start writing quickly"
+      ]
+    },
+    {
+      "title": "How to Use Notion - Beginner Tutorial (Free Templates)",
+      "url": "https://www.youtube.com/watch?v=GlSR9PI2vpM",
+      "duration": "21:25",
+      "channel": "Sankho kun",
+      "system_score": 0.663,
+      "ai_score": 0.76,
+      "final_score": 0.702,
+      "reason": "High popularity and clear focus on Notion basics make it accessible, though it lacks specific PRD-focused depth for product managers.",
+      "summary": [
+        "Learn how to set up your first workspace",
+        "Understand how to use blocks and pages",
+        "Discover how to organize your daily tasks",
+        "Find out how to use free pre-made templates"
+      ]
+    },
+    {
+      "title": "How to write a Product Requirement Document (PRD) : Guide to great PRDs with Live Example",
+      "url": "https://www.youtube.com/watch?v=rNSiFXHnAuw",
+      "duration": "14:08",
+      "channel": "The Swag Wala PM",
+      "system_score": 0.537,
+      "ai_score": 0.92,
+      "final_score": 0.69,
+      "reason": "The 'Live Example' approach is highly praised in comments for bridging the gap between theory and practice for new PMs.",
+      "summary": [
+        "See a real example of a product plan",
+        "Learn how to explain features to developers",
+        "Understand how to measure a project's success",
+        "Follow a simple structure for clear writing"
+      ]
+    },
+    {
+      "title": "Webinar: How to Write Great Product Requirements by Amazon Sr PM, Elly Newell",
+      "url": "https://www.youtube.com/watch?v=ydHLajgdT4c",
+      "duration": "28:32",
+      "channel": "Product School",
+      "system_score": 0.535,
+      "ai_score": 0.92,
+      "final_score": 0.689,
+      "reason": "High-authority content from an Amazon PM that provides deep industry context, though the webinar format is longer than other tutorials.",
+      "summary": [
+        "Learn how experts at Amazon plan products",
+        "Understand how to focus on the customer first",
+        "Discover tips for writing clear and simple goals",
+        "Learn how to share your ideas with teams"
+      ]
+    },
+    {
+      "title": "Build Better Apps with AI Using This One Simple Document (PRD Guide)",
+      "url": "https://www.youtube.com/watch?v=MZjW7mlRgdw",
+      "duration": "21:01",
+      "channel": "jordanUrbsAI",
+      "system_score": 0.612,
+      "ai_score": 0.8,
+      "final_score": 0.687,
+      "reason": "Strong focus on the 'why' behind documentation for AI development, though slightly more advanced than a general beginner template.",
+      "summary": [
+        "Learn to use AI to build better apps",
+        "Understand how to write instructions for AI tools",
+        "Discover how to speed up your planning process",
+        "Follow a simple guide for modern app design"
+      ]
+    }
+  ]
+}

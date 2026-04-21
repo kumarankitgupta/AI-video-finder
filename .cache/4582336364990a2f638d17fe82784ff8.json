@@ -1,0 +1,85 @@
+{
+  "ts": 1776345201.723808,
+  "results": [
+    {
+      "title": "JavaScript Course for Beginners \u2013 Your First Step to Web Development",
+      "url": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+      "duration": "48:17",
+      "channel": "Programming with Mosh",
+      "system_score": 0.774,
+      "ai_score": 0.94,
+      "final_score": 0.84,
+      "reason": "Mosh is widely cited in comments for his 'clean code' approach and logical pacing, making this the gold standard for absolute beginners.",
+      "summary": [
+        "Learn how to set up your coding environment",
+        "Understand how to use variables and constants",
+        "Work with different types of simple data",
+        "Create basic functions to run your code"
+      ]
+    },
+    {
+      "title": "How JavaScript Works \ud83d\udd25& Execution Context | Namaste JavaScript Ep.1",
+      "url": "https://www.youtube.com/watch?v=ZvbzSrg0afE",
+      "duration": "4:54",
+      "channel": "Akshay Saini",
+      "system_score": 0.612,
+      "ai_score": 0.88,
+      "final_score": 0.719,
+      "reason": "Akshay Saini is legendary for explaining 'how' JS works, but the depth of execution contexts may be too advanced for a first-day beginner.",
+      "summary": [
+        "See how the browser reads your code",
+        "Learn how computer memory stores your data",
+        "Understand the two steps of running code",
+        "Discover how code executes line by line"
+      ]
+    },
+    {
+      "title": "100+ JavaScript Concepts you Need to Know",
+      "url": "https://www.youtube.com/watch?v=lkIFF4maKMU",
+      "duration": "12:24",
+      "channel": "Fireship",
+      "system_score": 0.661,
+      "ai_score": 0.78,
+      "final_score": 0.709,
+      "reason": "Fireship provides high-speed 'edutainment' that is excellent for a broad overview, though beginners may find the 100-concept pace overwhelming.",
+      "summary": [
+        "Explore a wide range of coding terms",
+        "Learn about modern tools and web features",
+        "Understand how data moves through a website",
+        "Get a quick look at advanced logic"
+      ]
+    },
+    {
+      "title": "All The JavaScript You Need To Know For React",
+      "url": "https://www.youtube.com/watch?v=m55PTVUrlnA",
+      "duration": "28:00",
+      "channel": "PedroTech",
+      "system_score": 0.615,
+      "ai_score": 0.84,
+      "final_score": 0.705,
+      "reason": "Highly effective for those with a specific goal (React), but skips some general JS fundamentals that a total beginner might need first.",
+      "summary": [
+        "Master the specific math and logic rules",
+        "Learn how to transform lists of data",
+        "Understand how to import and export files",
+        "Practice the syntax used in modern apps"
+      ]
+    },
+    {
+      "title": "Learn JavaScript in 60 Minutes: The Ultimate Beginner Course!",
+      "url": "https://www.youtube.com/watch?v=voLJ3CmaM1s",
+      "duration": "1:15:40",
+      "channel": "Coding2GO",
+      "system_score": 0.591,
+      "ai_score": 0.84,
+      "final_score": 0.691,
+      "reason": "The 75-minute duration allows for a much better learning curve and more examples than the shorter 'minutes' style videos.",
+      "summary": [
+        "Build a solid foundation of basic concepts",
+        "Learn how to make decisions with code",
+        "Understand how to repeat tasks using loops",
+        "Create a simple project from start to finish"
+      ]
+    }
+  ]
+}

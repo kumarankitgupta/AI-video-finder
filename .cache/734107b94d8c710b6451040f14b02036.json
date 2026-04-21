@@ -1,0 +1,85 @@
+{
+  "ts": 1776320034.007963,
+  "results": [
+    {
+      "title": "Why 90% of AI Presentations Fail (do this instead)",
+      "url": "https://www.youtube.com/watch?v=mi2vCsP1oKY",
+      "duration": "13:17",
+      "channel": "Jeff Su",
+      "system_score": 0.639,
+      "ai_score": 0.8,
+      "final_score": 0.703,
+      "reason": "Excellent for advanced users as it focuses on the strategy of why AI decks fail, providing high-level conceptual frameworks beyond basic tool usage.",
+      "summary": [
+        "Avoid common mistakes when showing AI work",
+        "Focus on solving problems for your audience",
+        "Keep your slides simple and easy to read",
+        "Show how AI saves time and money"
+      ]
+    },
+    {
+      "title": "I\u2019ve Tried Top 10 AI Presentation Tools. These Are The Results!\u2728",
+      "url": "https://www.youtube.com/watch?v=i8zQMJz99hw",
+      "duration": "27:43",
+      "channel": "One Skill PPT",
+      "system_score": 0.591,
+      "ai_score": 0.84,
+      "final_score": 0.69,
+      "reason": "High comparative value for advanced users as it benchmarks 10 different tools, allowing for a nuanced understanding of the current market landscape.",
+      "summary": [
+        "Compare the best apps for making slides",
+        "See which tools create the best designs",
+        "Learn how to generate images with AI",
+        "Find the fastest way to build presentations"
+      ]
+    },
+    {
+      "title": "Ultimate Canva AI Tutorial (Everything You Can Do!) Over 15 AI Tools",
+      "url": "https://www.youtube.com/watch?v=ytaKk0nOFJ0",
+      "duration": "13:00",
+      "channel": "Stewart Gauld",
+      "system_score": 0.592,
+      "ai_score": 0.78,
+      "final_score": 0.667,
+      "reason": "A comprehensive feature walkthrough of Canva's ecosystem, though it leans more towards general design than specialized professional deck building.",
+      "summary": [
+        "Learn to use many smart design tools",
+        "Edit photos and text using simple commands",
+        "Create professional graphics in just a few clicks",
+        "Make your projects look better with less effort"
+      ]
+    },
+    {
+      "title": "What investors ACTUALLY want to see in your PITCH DECK.",
+      "url": "https://www.youtube.com/watch?v=jYWF64Um7pw",
+      "duration": "13:18",
+      "channel": "Matt C Smith",
+      "system_score": 0.59,
+      "ai_score": 0.74,
+      "final_score": 0.65,
+      "reason": "Provides the 'why' behind pitch decks from an investor perspective, which is critical for advanced users even if it is less focused on the 'how-to' of the software.",
+      "summary": [
+        "Understand what people look for in a business",
+        "Tell a clear story about your big idea",
+        "Show why your team is the best choice",
+        "Explain how your plan will make money"
+      ]
+    },
+    {
+      "title": "How to Create Pitch Decks & Presentations Using AI // Gamma App!",
+      "url": "https://www.youtube.com/watch?v=lEBshCXzl0s",
+      "duration": "17:48",
+      "channel": "Justin Tse",
+      "system_score": 0.576,
+      "ai_score": 0.74,
+      "final_score": 0.642,
+      "reason": "A solid tutorial on Gamma, one of the leading tools, though it follows a more standard 'show-and-tell' format suitable for intermediate levels.",
+      "summary": [
+        "Build entire slide decks using one tool",
+        "Let the computer write your first draft",
+        "Change layouts and styles with a single click",
+        "Share your work easily with other people"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "ts": 1776341294.3440819,
+  "results": [
+    {
+      "title": "I Built a Secret LEGO Gaming Room!",
+      "url": "https://www.youtube.com/watch?v=kOkRTP4uAvw",
+      "duration": "15:19",
+      "channel": "Brick Science",
+      "system_score": 0.681,
+      "ai_score": 0.7,
+      "final_score": 0.688,
+      "reason": "While LEGO-based, the creator explains engineering principles clearly, making it surprisingly educational for beginner spatial design.",
+      "summary": [
+        "How to build furniture using toy bricks",
+        "Ways to hide a room behind a wall",
+        "Making a desk that holds a computer",
+        "Adding colorful lights to a small space"
+      ]
+    },
+    {
+      "title": "I Built An EPIC Hidden Gaming Room In My House! *PS5*",
+      "url": "https://www.youtube.com/watch?v=k1MEusDm4Wo",
+      "duration": "9:18",
+      "channel": "Zealous",
+      "system_score": 0.694,
+      "ai_score": 0.58,
+      "final_score": 0.648,
+      "reason": "Provides a clear look at utilizing dead space under stairs, which is a practical 'hidden' beginner project even if not strictly subterranean.",
+      "summary": [
+        "Finding extra space inside a normal house",
+        "Building a secret door in a wall",
+        "Setting up a new game console",
+        "Decorating a small room with bright posters"
+      ]
+    },
+    {
+      "title": "Transforming My EMPTY Room Into My DREAM Gaming Room",
+      "url": "https://www.youtube.com/watch?v=Cn3GIcc5ycI",
+      "duration": "13:50",
+      "channel": "The Chandler",
+      "system_score": 0.673,
+      "ai_score": 0.6,
+      "final_score": 0.644,
+      "reason": "A solid walkthrough of a room transformation that is easy for beginners to follow, though it does not involve underground excavation.",
+      "summary": [
+        "Planning a layout for an empty room",
+        "Picking the right desk and comfortable chair",
+        "Putting cool lights on the walls",
+        "Organizing messy wires to look clean"
+      ]
+    },
+    {
+      "title": "I built the DREAM Gaming Setup!",
+      "url": "https://www.youtube.com/watch?v=mk1h-ku4GhY",
+      "duration": "24:11",
+      "channel": "Mrwhosetheboss",
+      "system_score": 0.712,
+      "ai_score": 0.54,
+      "final_score": 0.643,
+      "reason": "Excellent for tech inspiration and setup aesthetics, but lacks structural guidance for building an underground space.",
+      "summary": [
+        "Choosing the best screens for playing games",
+        "Installing high quality sound and speakers",
+        "Using smart gadgets to control the room",
+        "Making a space look very modern"
+      ]
+    },
+    {
+      "title": "I Built My DREAM $50,000 Gaming Room!",
+      "url": "https://www.youtube.com/watch?v=uZ3nwYVGMZg",
+      "duration": "28:57",
+      "channel": "The Chandler",
+      "system_score": 0.721,
+      "ai_score": 0.52,
+      "final_score": 0.64,
+      "reason": "High production value shows a room transformation, but the 'underground' aspect is missing as it focuses on an existing room.",
+      "summary": [
+        "Buying top quality gear for a room",
+        "Building custom shelves for a collection",
+        "Setting up a huge screen for movies",
+        "Creating a professional space for recording"
+      ]
+    }
+  ]
+}

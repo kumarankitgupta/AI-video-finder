@@ -1,0 +1,85 @@
+{
+  "ts": 1776317736.242571,
+  "results": [
+    {
+      "title": "Khatta Meetha Movie Review",
+      "url": "https://www.youtube.com/watch?v=L1xYtLmiKcc",
+      "duration": "2:59",
+      "channel": "Bollywood Backstage",
+      "system_score": 0.538,
+      "ai_score": 0.84,
+      "final_score": 0.659,
+      "reason": "The most relevant video as it specifically reviews and explains the plot and themes of Khatta Meetha for a beginner audience.",
+      "summary": [
+        "Learn if the movie is worth watching",
+        "Understand the main story and plot points",
+        "Hear about the acting and comedy scenes",
+        "Discover the critic's final rating and thoughts"
+      ]
+    },
+    {
+      "title": "Akshay Kumar Being a Certified MASTIKHOR for 5 Minutes Straight! | Netflix India",
+      "url": "https://www.youtube.com/watch?v=9U49cUGpk5U",
+      "duration": "6:00",
+      "channel": "Netflix India",
+      "system_score": 0.731,
+      "ai_score": 0.54,
+      "final_score": 0.654,
+      "reason": "While not the full movie, it provides a high-quality compilation of the lead actor's comedy style relevant to the search topic.",
+      "summary": [
+        "See the actor's funniest movie moments",
+        "Watch his best jokes and silly pranks",
+        "Enjoy high energy scenes from popular films",
+        "Learn why he is a comedy legend"
+      ]
+    },
+    {
+      "title": "GARAM MASALA Movie Reaction Part (1/3)! | Akshay Kumar | John Abraham | Paresh Rawal | Rimi Sen",
+      "url": "https://www.youtube.com/watch?v=aczizi0yX0M",
+      "duration": "17:48",
+      "channel": "CineDesi",
+      "system_score": 0.603,
+      "ai_score": 0.66,
+      "final_score": 0.626,
+      "reason": "A reaction video that explains plot points and humor, though it covers a different Akshay Kumar movie (Garam Masala).",
+      "summary": [
+        "Watch fans react to a classic comedy",
+        "See the best jokes from the first part",
+        "Learn about the funny chemistry between actors",
+        "Hear commentary on the most famous scenes"
+      ]
+    },
+    {
+      "title": "HERA PHERI Movie Reaction Part 1! | Akshay Kumar | Suniel Shetty | Paresh Rawal",
+      "url": "https://www.youtube.com/watch?v=RpfwcwGAFpg",
+      "duration": "17:30",
+      "channel": "CineDesi",
+      "system_score": 0.601,
+      "ai_score": 0.66,
+      "final_score": 0.625,
+      "reason": "Provides context and breakdown of a similar comedy film by the same lead actor, useful for beginners understanding the genre.",
+      "summary": [
+        "Enjoy reactions to a famous cult classic",
+        "See how the main trio works together",
+        "Watch the funniest moments from the beginning",
+        "Learn why people love this specific story"
+      ]
+    },
+    {
+      "title": "OMG - OH MY GOD! Movie Reaction Part (1/2)! | Akshay Kumar | Paresh Rawal | Mithun Chakraborty",
+      "url": "https://www.youtube.com/watch?v=Ciu1sFIMB7c",
+      "duration": "17:09",
+      "channel": "CineDesi",
+      "system_score": 0.583,
+      "ai_score": 0.66,
+      "final_score": 0.614,
+      "reason": "Explains the themes and story of another Akshay Kumar film, providing general context for the actor's filmography.",
+      "summary": [
+        "Watch a reaction to a unique story",
+        "Learn about the film's message on faith",
+        "See the main characters meet for first time",
+        "Hear thoughts on the clever and funny script"
+      ]
+    }
+  ]
+}

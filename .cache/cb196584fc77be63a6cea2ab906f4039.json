@@ -1,0 +1,85 @@
+{
+  "ts": 1776363460.1819892,
+  "results": [
+    {
+      "title": "How To Handle Permissions Like A Senior Dev",
+      "url": "https://www.youtube.com/watch?v=5GG-VUvruzE",
+      "duration": "36:39",
+      "channel": "Web Dev Simplified",
+      "system_score": 0.703,
+      "ai_score": 0.9,
+      "final_score": 0.782,
+      "reason": "Web Dev Simplified is highly praised for practical implementation; comments highlight the 'Senior Dev' mental model as very effective for beginners.",
+      "summary": [
+        "Learn how to organize user permissions efficiently",
+        "Understand how to group users by their roles",
+        "See how to write clean code for access",
+        "Build a system that grows with your app"
+      ]
+    },
+    {
+      "title": "Role-based access control (RBAC) vs. Attribute-based access control (ABAC)",
+      "url": "https://www.youtube.com/watch?v=rvZ35YW4t5k",
+      "duration": "7:39",
+      "channel": "IBM Technology",
+      "system_score": 0.6,
+      "ai_score": 0.88,
+      "final_score": 0.712,
+      "reason": "IBM's lightboard style is the gold standard for clarity, making complex comparisons like RBAC vs ABAC extremely digestible.",
+      "summary": [
+        "Learn how roles control what users can do",
+        "Understand using traits like location for access",
+        "Compare two popular ways to manage security",
+        "Discover which method fits your specific project"
+      ]
+    },
+    {
+      "title": "AZ-900 Episode 28 | Azure Role-based Access Control (RBAC)",
+      "url": "https://www.youtube.com/watch?v=4v7ffXxOnwU",
+      "duration": "13:42",
+      "channel": "Adam Marczak - Azure for Everyone",
+      "system_score": 0.591,
+      "ai_score": 0.88,
+      "final_score": 0.707,
+      "reason": "Highly structured and specifically designed for the AZ-900 exam, ensuring the teaching quality is optimized for learners.",
+      "summary": [
+        "Learn how Azure manages user access levels",
+        "Understand how to assign tasks to specific people",
+        "See how to keep cloud resources safe",
+        "Master the basics for the Azure certification exam"
+      ]
+    },
+    {
+      "title": "Role-Based Access Control (RBAC) Explained: How it works and when to use it",
+      "url": "https://www.youtube.com/watch?v=4Uya_I_Oxjk",
+      "duration": "8:00",
+      "channel": "Erik Wilde",
+      "system_score": 0.61,
+      "ai_score": 0.8,
+      "final_score": 0.686,
+      "reason": "A solid conceptual overview that viewers find helpful for understanding the 'why' before diving into code.",
+      "summary": [
+        "Learn the basic steps of role based access",
+        "Understand why giving roles saves time later",
+        "See real examples of roles in action",
+        "Know when to choose this simple security model"
+      ]
+    },
+    {
+      "title": "Authorization Explained: When to Use RBAC, ABAC, ACL & More",
+      "url": "https://www.youtube.com/watch?v=DT6Zy1X3ytM",
+      "duration": "11:03",
+      "channel": "Hayk Simonyan",
+      "system_score": 0.595,
+      "ai_score": 0.8,
+      "final_score": 0.677,
+      "reason": "Provides a great architectural overview of different authorization models, helping beginners choose the right path.",
+      "summary": [
+        "Learn the difference between identity and permissions",
+        "Explore many different ways to grant access",
+        "Understand how to pick the right security style",
+        "See how big companies handle user rules"
+      ]
+    }
+  ]
+}

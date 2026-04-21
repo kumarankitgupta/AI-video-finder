@@ -1,0 +1,85 @@
+{
+  "ts": 1776343989.3967009,
+  "results": [
+    {
+      "title": "Learn Postman for API Testing (Step-by-Step Tutorial)",
+      "url": "https://www.youtube.com/watch?v=wEOLZq-7DYs",
+      "duration": "1:35:56",
+      "channel": "Automation Step by Step",
+      "system_score": 0.669,
+      "ai_score": 0.96,
+      "final_score": 0.785,
+      "reason": "Highly rated for its 'zero to hero' approach with a structured timeline that viewers frequently cite as the most helpful for absolute beginners.",
+      "summary": [
+        "How to send requests to a server",
+        "Ways to test if data is correct",
+        "Organizing your work into simple folders",
+        "Running many tests automatically at once"
+      ]
+    },
+    {
+      "title": "Session1: Introduction to API Testing",
+      "url": "https://www.youtube.com/watch?v=vCJVFnepECc",
+      "duration": "1:28:06",
+      "channel": "SDET- QA",
+      "system_score": 0.748,
+      "ai_score": 0.82,
+      "final_score": 0.777,
+      "reason": "Excellent foundational coverage of client-server architecture and HTTP basics, which viewers praise for setting a strong theoretical base.",
+      "summary": [
+        "What an API is and how it works",
+        "The basic parts of a web request",
+        "Understanding different types of server responses",
+        "Why we test software behind the scenes"
+      ]
+    },
+    {
+      "title": "Session 1: API Testing | RestAssured | Introduction | Environment Setup | HTTP Methods",
+      "url": "https://www.youtube.com/watch?v=OM4mr3PKgcQ",
+      "duration": "1:32:27",
+      "channel": "SDET- QA",
+      "system_score": 0.652,
+      "ai_score": 0.9,
+      "final_score": 0.751,
+      "reason": "The gold standard for Java-based API automation, focusing on environment setup and Maven which is critical for professional testing.",
+      "summary": [
+        "Setting up your computer for coding tests",
+        "Creating, reading, updating, and deleting data",
+        "Writing your first automated test script",
+        "Connecting different tools to work together"
+      ]
+    },
+    {
+      "title": "REST API Crash Course - Introduction + Full Python API Tutorial",
+      "url": "https://www.youtube.com/watch?v=qbLc5a9jdXo",
+      "duration": "51:57",
+      "channel": "Caleb Curry",
+      "system_score": 0.647,
+      "ai_score": 0.84,
+      "final_score": 0.724,
+      "reason": "Great for those wanting a Python-centric approach; explains the 'why' behind REST principles better than most QA-specific channels.",
+      "summary": [
+        "The rules for how web services talk",
+        "Building a simple API using Python code",
+        "Storing and retrieving information from a database",
+        "How to design a clean web system"
+      ]
+    },
+    {
+      "title": "Part 1: Building API Automation Testing Framework in Rest Assured from from Scratch",
+      "url": "https://www.youtube.com/watch?v=tXo2vO5QNAw",
+      "duration": "1:26:56",
+      "channel": "SDET- QA",
+      "system_score": 0.608,
+      "ai_score": 0.86,
+      "final_score": 0.709,
+      "reason": "High-quality framework building content, though the 'from scratch' aspect may be slightly fast-paced for a true beginner.",
+      "summary": [
+        "Building a professional testing system from scratch",
+        "Making code easy to reuse and change",
+        "Handling complex data in a simple way",
+        "Creating clear reports for your test results"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "ts": 1776364241.530051,
+  "results": [
+    {
+      "title": "How To Play Chess: The Ultimate Beginner Guide",
+      "url": "https://www.youtube.com/watch?v=OCSbzArwB10",
+      "duration": "31:27",
+      "channel": "GothamChess",
+      "system_score": 0.786,
+      "ai_score": 0.94,
+      "final_score": 0.847,
+      "reason": "GothamChess is the most popular creator for beginners, and this comprehensive 31-minute guide is widely cited in comments as the gold standard for starting from zero.",
+      "summary": [
+        "Learn how every piece moves on the board",
+        "Understand the basic rules and goal of chess",
+        "Discover how to start your first game correctly",
+        "Master simple ways to trap the enemy king"
+      ]
+    },
+    {
+      "title": "How to Play Chess: Chess Rules for Beginners | ChessKid",
+      "url": "https://www.youtube.com/watch?v=YdnvlntAQH8",
+      "duration": "19:19",
+      "channel": "ChessKid",
+      "system_score": 0.74,
+      "ai_score": 0.9,
+      "final_score": 0.804,
+      "reason": "ChessKid specializes in absolute beginner pedagogy, offering the most structured and easy-to-follow rules explanation for new players.",
+      "summary": [
+        "Learn the names and values of all pieces",
+        "Follow the rules for setting up the board",
+        "Understand special moves like castling and promotion",
+        "Find out how to end the game properly"
+      ]
+    },
+    {
+      "title": "The ONLY Chess Guide you need (1 hour+)",
+      "url": "https://www.youtube.com/watch?v=r7WNog6y-UU",
+      "duration": "1:20:12",
+      "channel": "ChessPage1",
+      "system_score": 0.725,
+      "ai_score": 0.88,
+      "final_score": 0.787,
+      "reason": "Extremely high depth and value for a single video, though the 80-minute length may be intimidating for casual beginners.",
+      "summary": [
+        "Go from a total beginner to a player",
+        "Learn smart strategies for the early game",
+        "Understand how to think during your turn",
+        "Master the most important patterns to win"
+      ]
+    },
+    {
+      "title": "Basic Chess Openings Explained",
+      "url": "https://www.youtube.com/watch?v=8IlJ3v8I4Z8",
+      "duration": "8:51",
+      "channel": "GothamChess",
+      "system_score": 0.737,
+      "ai_score": 0.86,
+      "final_score": 0.786,
+      "reason": "A concise breakdown of essential openings that viewers praise for making complex theory digestible in under 10 minutes.",
+      "summary": [
+        "Learn why the first moves are so important",
+        "Control the center of the board with pawns",
+        "Get your pieces out and ready for battle",
+        "Keep your king safe early in the game"
+      ]
+    },
+    {
+      "title": "The BEST Beginner Chess Opening",
+      "url": "https://www.youtube.com/watch?v=TemLSMDKSMw",
+      "duration": "25:30",
+      "channel": "GothamChess",
+      "system_score": 0.752,
+      "ai_score": 0.8,
+      "final_score": 0.771,
+      "reason": "Focuses on a specific opening (Ponziani) which viewers appreciate for its simplicity and effectiveness at lower ELO levels.",
+      "summary": [
+        "Learn one easy setup for every game",
+        "Follow simple steps that work for beginners",
+        "Avoid common mistakes in the first few moves",
+        "Build a strong defense for your king"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "ts": 1776711085.3749099,
+  "results": [
+    {
+      "title": "The Top Study Habits to Improve Learning | Dr. Andrew Huberman",
+      "url": "https://www.youtube.com/watch?v=1bszFX_XcbU",
+      "duration": "14:25",
+      "channel": "Huberman Lab Clips",
+      "system_score": 0.608,
+      "ai_score": 0.96,
+      "final_score": 0.749,
+      "reason": "The gold standard for evidence-based study habits; it explains the 'why' behind learning protocols perfectly for a student audience.",
+      "summary": [
+        "Learn how to focus better while studying",
+        "Discover the best times to take breaks",
+        "Use short tests to remember information longer",
+        "Improve your memory with better sleep habits"
+      ]
+    },
+    {
+      "title": "How To Create A Podcast for Beginners",
+      "url": "https://www.youtube.com/watch?v=mwFYiFZO6sI",
+      "duration": "14:28",
+      "channel": "Think Media",
+      "system_score": 0.61,
+      "ai_score": 0.9,
+      "final_score": 0.726,
+      "reason": "Highly structured tutorial for students interested in starting their own podcast, offering clear step-by-step instructions.",
+      "summary": [
+        "Pick the right equipment for your budget",
+        "Choose a topic that people want to hear",
+        "Record and edit your first high quality episode",
+        "Share your show on all major platforms"
+      ]
+    },
+    {
+      "title": "One of the Greatest Speeches Ever | Steve Jobs",
+      "url": "https://www.youtube.com/watch?v=Tuw8hxrFBH8",
+      "duration": "10:31",
+      "channel": "Motivation Ark",
+      "system_score": 0.671,
+      "ai_score": 0.78,
+      "final_score": 0.715,
+      "reason": "A classic inspirational resource that is highly accessible for beginners, though it functions more as a motivational speech than a tactical guide.",
+      "summary": [
+        "Trust that life events will connect later",
+        "Find work that you truly love doing",
+        "Use your limited time to follow your heart",
+        "Stay curious and keep looking for new ideas"
+      ]
+    },
+    {
+      "title": "Jordan Peterson's Ultimate Advice for Students and College Grads - STOP WASTING TIME",
+      "url": "https://www.youtube.com/watch?v=wsNzAuYDgy0",
+      "duration": "15:20",
+      "channel": "Motivation2Study",
+      "system_score": 0.634,
+      "ai_score": 0.82,
+      "final_score": 0.709,
+      "reason": "Directly addresses the student demographic with actionable advice on time management and personal responsibility.",
+      "summary": [
+        "Stop wasting hours on things that do not matter",
+        "Set clear goals to give your life direction",
+        "Take responsibility for your own future success",
+        "Build a daily routine that keeps you productive"
+      ]
+    },
+    {
+      "title": "Billionaire\u2019s Brain vs Your Brain: Morning Routine, Focus & Addiction | Dr Sweta | FO403 Raj Shamani",
+      "url": "https://www.youtube.com/watch?v=fHBR1j1kJ1I",
+      "duration": "1:45:10",
+      "channel": "Raj Shamani",
+      "system_score": 0.69,
+      "ai_score": 0.72,
+      "final_score": 0.702,
+      "reason": "While long, the podcast format provides deep dives into cognitive health which is highly relevant for student focus and brain performance.",
+      "summary": [
+        "Start your day with a winning morning routine",
+        "Break bad habits that hurt your brain power",
+        "Train your mind to stay focused on tasks",
+        "Learn how successful people think about their time"
+      ]
+    }
+  ]
+}

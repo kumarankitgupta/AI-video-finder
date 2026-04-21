@@ -1,0 +1,85 @@
+{
+  "ts": 1776362512.495984,
+  "results": [
+    {
+      "title": "The Disturbing Reality of Cobalt Mining for Rechargeable Batteries",
+      "url": "https://www.youtube.com/watch?v=CIWvk3gJ_7E",
+      "duration": "14:45",
+      "channel": "PowerfulJRE",
+      "system_score": 0.791,
+      "ai_score": 0.86,
+      "final_score": 0.819,
+      "reason": "High reach and compelling storytelling by Siddharth Kara provide a powerful, accessible introduction to the ethical and supply chain realities of the element.",
+      "summary": [
+        "Learn where battery materials come from",
+        "Discover the harsh truth about mining",
+        "Understand the global demand for cobalt",
+        "See how mining affects local people"
+      ]
+    },
+    {
+      "title": "Cobalt - Periodic Table of Videos",
+      "url": "https://www.youtube.com/watch?v=MWtL3pvGC68",
+      "duration": "9:15",
+      "channel": "Periodic Videos",
+      "system_score": 0.631,
+      "ai_score": 0.94,
+      "final_score": 0.755,
+      "reason": "The gold standard for chemistry education; it explains the actual chemical properties and reactions of cobalt with expert clarity and visual evidence.",
+      "summary": [
+        "Learn about cobalt as a chemical element",
+        "See how the metal looks and acts",
+        "Discover common uses for this blue material",
+        "Understand its place on the periodic table"
+      ]
+    },
+    {
+      "title": "Special report : Inside the Congo cobalt mines that exploit children",
+      "url": "https://www.youtube.com/watch?v=JcJ8me22NVs",
+      "duration": "6:17",
+      "channel": "Sky News",
+      "system_score": 0.641,
+      "ai_score": 0.8,
+      "final_score": 0.705,
+      "reason": "A concise, high-production journalistic report that clearly explains the link between the mineral and consumer electronics for a general audience.",
+      "summary": [
+        "See the dangerous conditions inside the mines",
+        "Learn about children working in the mud",
+        "Understand the health risks for the workers",
+        "Discover who buys the mined materials"
+      ]
+    },
+    {
+      "title": "How cobalt mining became a disaster for Congolese communities | DW News",
+      "url": "https://www.youtube.com/watch?v=OvKnn8BRRI8",
+      "duration": "8:34",
+      "channel": "DW News",
+      "system_score": 0.602,
+      "ai_score": 0.84,
+      "final_score": 0.697,
+      "reason": "DW News offers a well-structured educational overview of the socio-economic disaster caused by cobalt demand, highly praised for its clarity.",
+      "summary": [
+        "Learn how mining ruins local environments",
+        "See how families lose their homes",
+        "Understand the struggle for fair pay",
+        "Discover the link to your electronic devices"
+      ]
+    },
+    {
+      "title": "The horror of cobalt mining in DR Congo | The Listening Post",
+      "url": "https://www.youtube.com/watch?v=eJdktQ97rZ8",
+      "duration": "18:49",
+      "channel": "Al Jazeera English",
+      "system_score": 0.614,
+      "ai_score": 0.8,
+      "final_score": 0.688,
+      "reason": "Provides a deeper look into the geopolitical and media narrative surrounding cobalt mining, suitable for beginners interested in the global impact.",
+      "summary": [
+        "Explore the human cost of modern technology",
+        "Learn about the lack of safety gear",
+        "Understand the power of big mining companies",
+        "See the daily life of a miner"
+      ]
+    }
+  ]
+}

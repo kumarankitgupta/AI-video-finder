@@ -1,0 +1,85 @@
+{
+  "ts": 1776345627.725812,
+  "results": [
+    {
+      "title": "Selenium Cucumber Java BDD Framework 1 - Setup | Step by Step | Raghav Pal",
+      "url": "https://www.youtube.com/watch?v=4e9vhX7ZuCw",
+      "duration": "43:25",
+      "channel": "Automation Step by Step",
+      "system_score": 0.744,
+      "ai_score": 0.86,
+      "final_score": 0.791,
+      "reason": "Raghav Pal is highly praised in comments for his 'step by step' approach, making complex environment setup accessible for absolute beginners.",
+      "summary": [
+        "Install the necessary software for your project",
+        "Create a new Java project in Eclipse",
+        "Add tools to manage project dependencies easily",
+        "Set up folders for your automation code"
+      ]
+    },
+    {
+      "title": "Part 1: Selenium with Java+Cucumber(BDD) Framework Development from Scratch",
+      "url": "https://www.youtube.com/watch?v=d56lRIAwQEI",
+      "duration": "1:04:14",
+      "channel": "SDET- QA",
+      "system_score": 0.695,
+      "ai_score": 0.88,
+      "final_score": 0.769,
+      "reason": "The detailed timestamps show a strong focus on theory (TDD vs BDD) before coding, which helps beginners understand the 'why' behind the tool.",
+      "summary": [
+        "Learn the basics of building a testing framework",
+        "Connect Java with tools for web testing",
+        "Write simple instructions for the computer to follow",
+        "Start building a project from the very beginning"
+      ]
+    },
+    {
+      "title": "BDD for Beginners 1 | What is BDD with Examples | How BDD works | What is Cucumber",
+      "url": "https://www.youtube.com/watch?v=cq_3wPnaX-w",
+      "duration": "6:59",
+      "channel": "Automation Step by Step",
+      "system_score": 0.671,
+      "ai_score": 0.88,
+      "final_score": 0.755,
+      "reason": "At only 7 minutes, this is the highest-rated entry point for a beginner to understand the concept of BDD without getting bogged down in code.",
+      "summary": [
+        "Understand how teams talk about software features",
+        "Learn how to write tests in plain English",
+        "See real examples of behavior driven testing",
+        "Discover how Cucumber helps bridge communication gaps"
+      ]
+    },
+    {
+      "title": "Selenium Cucumber Java BDD Framework 4 - Sample Login Test",
+      "url": "https://www.youtube.com/watch?v=g6Bv57iXjJw",
+      "duration": "12:45",
+      "channel": "Automation Step by Step",
+      "system_score": 0.639,
+      "ai_score": 0.84,
+      "final_score": 0.719,
+      "reason": "Excellent practical application that shows the full flow from feature file to execution, which is the 'aha' moment for most beginners.",
+      "summary": [
+        "Write a test script for a login page",
+        "Link plain English steps to actual code",
+        "Run your first automated web browser test",
+        "Check if the login process works correctly"
+      ]
+    },
+    {
+      "title": "Selenium Cucumber Java BDD Framework 6 - Page Object Model | Step by Step",
+      "url": "https://www.youtube.com/watch?v=BKefIqoUD3w",
+      "duration": "26:34",
+      "channel": "Automation Step by Step",
+      "system_score": 0.646,
+      "ai_score": 0.8,
+      "final_score": 0.708,
+      "reason": "Covers Page Object Model which is vital for real-world use, but may be slightly advanced for a 'day one' beginner.",
+      "summary": [
+        "Organize your code to make it reusable",
+        "Keep web page elements in separate files",
+        "Make your test scripts cleaner and shorter",
+        "Learn how to update tests more easily"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "ts": 1776345430.1970592,
+  "results": [
+    {
+      "title": "Beginners Guide to Instagram Reels - How to Make Reels on IG",
+      "url": "https://www.youtube.com/watch?v=fvm_CeEsFnE",
+      "duration": "4:29",
+      "channel": "Tech Life Unity",
+      "system_score": 0.811,
+      "ai_score": 0.76,
+      "final_score": 0.791,
+      "reason": "A concise, focused guide on a specific feature (Reels) that viewers find easy to follow for quick wins.",
+      "summary": [
+        "Learn how to record short video clips",
+        "Add popular music and fun visual effects",
+        "Edit your videos before you post them",
+        "Share your creative reels with your followers"
+      ]
+    },
+    {
+      "title": "How to Use Instagram - Beginner's Guide",
+      "url": "https://www.youtube.com/watch?v=_wo5C9qh4xE",
+      "duration": "15:06",
+      "channel": "Howfinity",
+      "system_score": 0.702,
+      "ai_score": 0.9,
+      "final_score": 0.781,
+      "reason": "The 15-minute duration and channel reputation suggest a comprehensive walkthrough that covers the interface thoroughly for new users.",
+      "summary": [
+        "Set up your new account and profile",
+        "Post your first photos and short stories",
+        "Find and follow friends or famous people",
+        "Send private messages to other app users"
+      ]
+    },
+    {
+      "title": "How to Use Instagram - Complete Beginner's Guide",
+      "url": "https://www.youtube.com/watch?v=RaJGtAAWOmo",
+      "duration": "14:28",
+      "channel": "Howfinity",
+      "system_score": 0.648,
+      "ai_score": 0.94,
+      "final_score": 0.765,
+      "reason": "The 'Complete' guide format from a trusted educator provides the best balance of breadth and depth for a new user.",
+      "summary": [
+        "Navigate the main buttons on the screen",
+        "Upload pictures and write short captions",
+        "Use hashtags to help people find posts",
+        "Adjust your personal privacy and safety settings"
+      ]
+    },
+    {
+      "title": "How to Use Instagram - Beginner's Guide",
+      "url": "https://www.youtube.com/watch?v=s-9LzsvH9xw",
+      "duration": "8:53",
+      "channel": "Howfinity",
+      "system_score": 0.657,
+      "ai_score": 0.88,
+      "final_score": 0.746,
+      "reason": "Highly rated for its step-by-step approach to account creation and initial setup, which is the first hurdle for beginners.",
+      "summary": [
+        "Understand the basics of the home feed",
+        "Like and comment on posts you enjoy",
+        "Share temporary updates that disappear quickly",
+        "Search for topics that interest you most"
+      ]
+    },
+    {
+      "title": "How to Use Instagram Beginners Guide",
+      "url": "https://www.youtube.com/watch?v=2YSB468mn4M",
+      "duration": "5:01",
+      "channel": "Tech Life Unity",
+      "system_score": 0.696,
+      "ai_score": 0.8,
+      "final_score": 0.738,
+      "reason": "A short, digestible overview of the platform's purpose and basic navigation, ideal for absolute technophobes.",
+      "summary": [
+        "Create a profile with a nice photo",
+        "Learn how to post images and videos",
+        "Explore the different tabs in the app",
+        "Connect with others by following their pages"
+      ]
+    }
+  ]
+}

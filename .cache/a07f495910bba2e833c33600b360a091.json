@@ -1,0 +1,85 @@
+{
+  "ts": 1776317061.3546739,
+  "results": [
+    {
+      "title": "423 Years of American History in 13 Minutes",
+      "url": "https://www.youtube.com/watch?v=5Pm_s2wzxo0",
+      "duration": "12:45",
+      "channel": "Fun History",
+      "system_score": 0.762,
+      "ai_score": 0.76,
+      "final_score": 0.761,
+      "reason": "High reach and entertaining pace make it an excellent entry point for beginners, though it sacrifices depth for speed.",
+      "summary": [
+        "How the first colonies started in America",
+        "The fight for freedom from British rule",
+        "Major wars that changed the nation's shape",
+        "Key events leading up to modern times"
+      ]
+    },
+    {
+      "title": "The history of our world in 18 minutes | David Christian | TED",
+      "url": "https://www.youtube.com/watch?v=yqc9zX04DXs",
+      "duration": "17:41",
+      "channel": "TED",
+      "system_score": 0.632,
+      "ai_score": 0.86,
+      "final_score": 0.723,
+      "reason": "A highly popular TED talk that explains the 'why' behind historical complexity, though it leans toward a 'Big History' perspective.",
+      "summary": [
+        "How the entire universe began long ago",
+        "The way life grew on our planet",
+        "How humans built complex modern societies",
+        "The big picture of our shared story"
+      ]
+    },
+    {
+      "title": "Timeline of World History",
+      "url": "https://www.youtube.com/watch?v=__BaaMfiD0Q",
+      "duration": "17:24",
+      "channel": "UsefulCharts",
+      "system_score": 0.638,
+      "ai_score": 0.82,
+      "final_score": 0.711,
+      "reason": "The visual chart format provides exceptional structure for beginners to understand the chronological flow of modern history.",
+      "summary": [
+        "When the first great civilizations appeared",
+        "Which powerful empires rose and then fell",
+        "How different cultures connected over time",
+        "A visual map of human history's path"
+      ]
+    },
+    {
+      "title": "The Mess That Is Early Modern Europe (1500 - 1700s) Explained: A Complete Overview",
+      "url": "https://www.youtube.com/watch?v=yIGBjoXfaVw",
+      "duration": "1:26:04",
+      "channel": "Made In History",
+      "system_score": 0.605,
+      "ai_score": 0.84,
+      "final_score": 0.699,
+      "reason": "Offers the best depth for a 'complete overview,' though the long duration may be intimidating for some beginners.",
+      "summary": [
+        "The religious changes that split Europe apart",
+        "How kings and queens gained total power",
+        "The start of global trade and travel",
+        "New ways of thinking about the world"
+      ]
+    },
+    {
+      "title": "Early Modern Europe Explained in 11 minutes",
+      "url": "https://www.youtube.com/watch?v=R761Vb84EKc",
+      "duration": "11:51",
+      "channel": "Captivating History",
+      "system_score": 0.621,
+      "ai_score": 0.8,
+      "final_score": 0.692,
+      "reason": "Specifically targets the early modern period with a clear, digestible narrative suited for those new to the era.",
+      "summary": [
+        "The end of the old Middle Ages",
+        "How art and science began to grow",
+        "The impact of the first printing press",
+        "Why European borders changed so much"
+      ]
+    }
+  ]
+}

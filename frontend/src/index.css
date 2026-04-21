@@ -1,0 +1,166 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-headline: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --color-primary: #005bbf;
+  --color-primary-dark: #004493;
+  --color-primary-light: #d8e2ff;
+  --color-primary-container: #1a73e8;
+  --color-surface: #f8f9fa;
+  --color-surface-card: #ffffff;
+  --color-on-surface: #191c1d;
+  --color-on-surface-variant: #414754;
+  --color-surface-container-low: #f3f4f5;
+  --color-surface-container-high: #e7e8e9;
+  --color-surface-container-highest: #e1e3e4;
+  --color-outline-variant: #c1c6d6;
+  --color-badge-popular: #EF4444;
+  --color-badge-expert: #8B5CF6;
+  --color-badge-quick: #10B981;
+}
+
+body {
+  font-family: var(--font-sans);
+  background: var(--color-surface);
+  color: var(--color-on-surface);
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-headline);
+}
+
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
+}
+
+.premium-gradient {
+  background: linear-gradient(135deg, #005bbf 0%, #1a73e8 100%);
+}
+
+.glass-nav {
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.skeleton {
+  background: linear-gradient(90deg, #E2E8F0 25%, #F1F5F9 50%, #E2E8F0 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s ease-in-out infinite;
+  border-radius: 8px;
+}
+
+@keyframes spin-slow {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 2s linear infinite;
+}
+
+@keyframes fade-in-up {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.fade-in-up {
+  animation: fade-in-up 0.5s ease-out forwards;
+}
+
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}
+
+.pulse-dot {
+  animation: pulse-dot 1.4s ease-in-out infinite;
+}
+
+/* --- Scroll reveals (Reveal.jsx) — smooth, not flashy --- */
+@media (prefers-reduced-motion: no-preference) {
+  .reveal-fade-up,
+  .reveal-fade,
+  .reveal-scale-in,
+  .reveal-fade-left,
+  .reveal-fade-right {
+    will-change: opacity, transform;
+  }
+
+  .reveal-fade-up {
+    opacity: 0;
+    transform: translateY(1.75rem);
+    transition:
+      opacity 0.7s cubic-bezier(0.22, 1, 0.36, 1),
+      transform 0.75s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .reveal-fade {
+    opacity: 0;
+    transition: opacity 0.65s ease-out;
+  }
+
+  .reveal-scale-in {
+    opacity: 0;
+    transform: scale(0.96);
+    transition:
+      opacity 0.6s cubic-bezier(0.22, 1, 0.36, 1),
+      transform 0.65s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .reveal-fade-left {
+    opacity: 0;
+    transform: translateX(-1.25rem);
+    transition:
+      opacity 0.65s cubic-bezier(0.22, 1, 0.36, 1),
+      transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .reveal-fade-right {
+    opacity: 0;
+    transform: translateX(1.25rem);
+    transition:
+      opacity 0.65s cubic-bezier(0.22, 1, 0.36, 1),
+      transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .reveal-fade-up.reveal-visible,
+  .reveal-fade.reveal-visible,
+  .reveal-scale-in.reveal-visible,
+  .reveal-fade-left.reveal-visible,
+  .reveal-fade-right.reveal-visible {
+    opacity: 1;
+    transform: translate(0) scale(1);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal-fade-up,
+  .reveal-fade,
+  .reveal-scale-in,
+  .reveal-fade-left,
+  .reveal-fade-right {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

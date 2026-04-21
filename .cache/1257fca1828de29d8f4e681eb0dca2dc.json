@@ -1,0 +1,85 @@
+{
+  "ts": 1776403381.676992,
+  "results": [
+    {
+      "title": "Biggest Puzzle in Computer Science: P vs. NP",
+      "url": "https://www.youtube.com/watch?v=pQsdygaYcE4",
+      "duration": "19:44",
+      "channel": "Quanta Magazine",
+      "system_score": 0.764,
+      "ai_score": 0.92,
+      "final_score": 0.827,
+      "reason": "High production value and a narrative-driven transcript make this the most accessible entry point for a beginner to understand the 'why' behind the problem.",
+      "summary": [
+        "Learn the difference between easy and hard problems",
+        "Understand why checking answers is faster than solving",
+        "Explore the most famous unsolved math mystery",
+        "Discover how these puzzles affect modern computer security"
+      ]
+    },
+    {
+      "title": "8. NP-Hard and NP-Complete Problems",
+      "url": "https://www.youtube.com/watch?v=e2cF8a5aAhE",
+      "duration": "31:53",
+      "channel": "Abdul Bari",
+      "system_score": 0.685,
+      "ai_score": 0.94,
+      "final_score": 0.787,
+      "reason": "Abdul Bari is renowned for pedagogical excellence; the transcript shows a dedicated focus on clearing confusion for students through structured logic.",
+      "summary": [
+        "Identify problems that take too long to solve",
+        "Learn how to group difficult tasks by complexity",
+        "Understand the meaning of hard and complete categories",
+        "See how different math problems relate to each other"
+      ]
+    },
+    {
+      "title": "NP Hard and NP Complete Problems, Non Deterministic Algorithms |DAA|",
+      "url": "https://www.youtube.com/watch?v=valpD5Jx7aw",
+      "duration": "10:21",
+      "channel": "Trouble- Free",
+      "system_score": 0.651,
+      "ai_score": 0.82,
+      "final_score": 0.719,
+      "reason": "The transcript indicates a very structured approach covering non-deterministic algorithms and reduction, which are essential for a beginner's foundation.",
+      "summary": [
+        "Learn how computers make guesses to find answers",
+        "Understand the basics of hard to solve problems",
+        "Discover how to verify if a solution is correct",
+        "Explore simple ways to categorize different computer tasks"
+      ]
+    },
+    {
+      "title": "What is a polynomial-time reduction? (NP-Hard + NP-complete)",
+      "url": "https://www.youtube.com/watch?v=O7pq43hIE_0",
+      "duration": "8:56",
+      "channel": "Easy Theory",
+      "system_score": 0.609,
+      "ai_score": 0.8,
+      "final_score": 0.686,
+      "reason": "Focuses specifically on the 'reduction' aspect which is the hardest part for beginners to grasp, providing necessary technical depth.",
+      "summary": [
+        "Learn how to turn one problem into another",
+        "Understand why some problems are equally difficult",
+        "See how shortcuts help classify complex computer tasks",
+        "Discover the link between simple and hard puzzles"
+      ]
+    },
+    {
+      "title": "Proving P=NP Requires Concepts We Don't Have | Richard Karp and Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=GDX8F3yxGEg",
+      "duration": "2:50",
+      "channel": "Lex Clips",
+      "system_score": 0.573,
+      "ai_score": 0.78,
+      "final_score": 0.656,
+      "reason": "Features a Turing Award winner; great for high-level conceptual inspiration but less effective for learning the specific mechanics of NP-Hardness.",
+      "summary": [
+        "Hear why this famous puzzle remains unsolved today",
+        "Learn why current math tools are not enough",
+        "Understand the limits of our current computer knowledge",
+        "Explore the future of solving very difficult problems"
+      ]
+    }
+  ]
+}

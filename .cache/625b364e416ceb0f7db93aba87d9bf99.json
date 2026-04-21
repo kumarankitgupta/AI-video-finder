@@ -1,0 +1,85 @@
+{
+  "ts": 1776793140.0181289,
+  "results": [
+    {
+      "title": "Role-based access control (RBAC) vs. Attribute-based access control (ABAC)",
+      "url": "https://www.youtube.com/watch?v=rvZ35YW4t5k",
+      "duration": "7:39",
+      "channel": "IBM Technology",
+      "system_score": 0.744,
+      "ai_score": 0.86,
+      "final_score": 0.79,
+      "reason": "IBM's lightboard format is highly praised for conceptual clarity, making it the best starting point for understanding the 'why' behind RBAC vs ABAC.",
+      "summary": [
+        "Learn how roles give people specific permissions",
+        "Understand how attributes add extra security rules",
+        "Compare simple role systems with flexible rule systems",
+        "See which method works best for your company"
+      ]
+    },
+    {
+      "title": "AZ-900 Episode 28 | Azure Role-based Access Control (RBAC)",
+      "url": "https://www.youtube.com/watch?v=4v7ffXxOnwU",
+      "duration": "13:42",
+      "channel": "Adam Marczak - Azure for Everyone",
+      "system_score": 0.618,
+      "ai_score": 0.92,
+      "final_score": 0.739,
+      "reason": "Adam Marczak is renowned for high-production educational content that breaks down complex Azure concepts into digestible, beginner-friendly segments.",
+      "summary": [
+        "Learn how to manage user access in Azure",
+        "Understand the difference between roles and permissions",
+        "See how access flows down to different levels",
+        "Discover how to keep your cloud resources safe"
+      ]
+    },
+    {
+      "title": "Authorization Explained: When to Use RBAC, ABAC, ACL & More",
+      "url": "https://www.youtube.com/watch?v=DT6Zy1X3ytM",
+      "duration": "11:03",
+      "channel": "Hayk Simonyan",
+      "system_score": 0.637,
+      "ai_score": 0.82,
+      "final_score": 0.71,
+      "reason": "Provides a broader architectural context for authorization models, which is helpful for beginners to see where RBAC fits in the bigger picture.",
+      "summary": [
+        "Explore different ways to control user access",
+        "Learn when to use lists or roles",
+        "Understand how to choose the right security model",
+        "See real examples of different authorization types"
+      ]
+    },
+    {
+      "title": "Lec-43: Introduction to Role-based access control (RBAC) | RBAC vs. ABAC",
+      "url": "https://www.youtube.com/watch?v=nVScsbRJjP8",
+      "duration": "8:05",
+      "channel": "Gate Smashers",
+      "system_score": 0.587,
+      "ai_score": 0.86,
+      "final_score": 0.696,
+      "reason": "Gate Smashers is highly popular for exam prep; the explanation is structured logically and simplified for quick learning.",
+      "summary": [
+        "Learn the basics of role based security",
+        "Understand how users get their specific powers",
+        "Compare simple roles against more complex rules",
+        "See the main benefits of using role systems"
+      ]
+    },
+    {
+      "title": "Azure RBAC Explained with Real-Time Demo | Role-Based Access Control in Azure for Beginners",
+      "url": "https://www.youtube.com/watch?v=2H8HCg9os5Y",
+      "duration": "21:33",
+      "channel": "TechnoAarambh",
+      "system_score": 0.61,
+      "ai_score": 0.82,
+      "final_score": 0.694,
+      "reason": "The real-time demo is highly effective for beginners who want to see the immediate impact of role assignments in a cloud environment.",
+      "summary": [
+        "Watch a live demo of setting up access",
+        "Learn how to assign roles to team members",
+        "Understand how to limit what users can do",
+        "Follow step by step instructions for cloud security"
+      ]
+    }
+  ]
+}

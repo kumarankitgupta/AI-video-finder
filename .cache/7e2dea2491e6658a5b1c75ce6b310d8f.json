@@ -1,0 +1,85 @@
+{
+  "ts": 1776343828.284995,
+  "results": [
+    {
+      "title": "C++ Tutorial for Beginners - Learn C++ in 1 Hour",
+      "url": "https://www.youtube.com/watch?v=ZzaPdXTrSb8",
+      "duration": "1:22:56",
+      "channel": "Programming with Mosh",
+      "system_score": 0.791,
+      "ai_score": 0.9,
+      "final_score": 0.835,
+      "reason": "Mosh is highly praised in comments for his structured 'fundamentals-first' approach, making this the gold standard for absolute beginners.",
+      "summary": [
+        "How to set up your coding environment",
+        "Writing your first simple computer program",
+        "Using variables to store and manage data",
+        "Basic math and logic inside your code"
+      ]
+    },
+    {
+      "title": "C++ Basics in One Shot - Strivers A2Z DSA Course - L1",
+      "url": "https://www.youtube.com/watch?v=EAR7De6Goz4",
+      "duration": "1:26:27",
+      "channel": "take U forward",
+      "system_score": 0.702,
+      "ai_score": 0.88,
+      "final_score": 0.773,
+      "reason": "Viewer appreciation is high for the logical flow toward Data Structures (DSA), providing more depth than a standard 'basics' video.",
+      "summary": [
+        "Understanding the basic structure of a program",
+        "How to take input from a user",
+        "Making decisions using if and else statements",
+        "Repeating tasks easily using simple loops"
+      ]
+    },
+    {
+      "title": "C++ tutorial for beginners \ud83d\udc68\u200d\ud83d\udcbb",
+      "url": "https://www.youtube.com/watch?v=S3nx34WFXjI",
+      "duration": "14:00",
+      "channel": "Bro Code",
+      "system_score": 0.666,
+      "ai_score": 0.86,
+      "final_score": 0.743,
+      "reason": "Bro Code is consistently cited by beginners for clear environment setup and bite-sized, digestible explanations.",
+      "summary": [
+        "Getting started with the C++ language",
+        "Displaying text and numbers on the screen",
+        "Storing different types of information correctly",
+        "Essential rules for writing clean code"
+      ]
+    },
+    {
+      "title": "How to Program A Calculator in C++! (Great C++ Microsoft Visual Studio Beginner Project)",
+      "url": "https://www.youtube.com/watch?v=jkS4Vx85I-A",
+      "duration": "10:37",
+      "channel": "LeMaster Tech",
+      "system_score": 0.655,
+      "ai_score": 0.8,
+      "final_score": 0.713,
+      "reason": "Project-based learning is highly effective for beginners, and comments confirm the calculator is a successful first milestone.",
+      "summary": [
+        "Setting up a project in Visual Studio",
+        "Creating a tool that does basic math",
+        "Handling user numbers and math symbols",
+        "Building a real project from start to finish"
+      ]
+    },
+    {
+      "title": "15 Years Writing C++ - Advice for new programmers",
+      "url": "https://www.youtube.com/watch?v=37VZu3b045k",
+      "duration": "4:04",
+      "channel": "SyncMain",
+      "system_score": 0.688,
+      "ai_score": 0.7,
+      "final_score": 0.693,
+      "reason": "This is high-quality advice/meta-learning rather than a technical tutorial, making it helpful but not a primary learning resource.",
+      "summary": [
+        "Important tips for starting your coding journey",
+        "Common mistakes that new learners should avoid",
+        "How to think like a professional programmer",
+        "Best ways to practice and improve skills"
+      ]
+    }
+  ]
+}

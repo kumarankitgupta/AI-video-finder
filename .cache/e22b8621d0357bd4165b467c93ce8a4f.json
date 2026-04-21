@@ -1,0 +1,85 @@
+{
+  "ts": 1776320328.957365,
+  "results": [
+    {
+      "title": "Lec-4: Internal Architecture of 8085 Microprocessor | Working of 8085",
+      "url": "https://www.youtube.com/watch?v=w2oXhH02GSU",
+      "duration": "18:13",
+      "channel": "Gate Smashers",
+      "system_score": 0.734,
+      "ai_score": 0.86,
+      "final_score": 0.784,
+      "reason": "This video provides a deep dive into internal workings; viewers appreciate the logical flow from registers to the ALU.",
+      "summary": [
+        "Learn how the main brain parts work together",
+        "Understand how data moves inside the chip",
+        "See how the chip stores temporary numbers",
+        "Discover how the chip controls every action"
+      ]
+    },
+    {
+      "title": "Lec-2: Introduction to 8085 Microprocessor",
+      "url": "https://www.youtube.com/watch?v=rjnDD0f6vMY",
+      "duration": "7:29",
+      "channel": "Gate Smashers",
+      "system_score": 0.757,
+      "ai_score": 0.82,
+      "final_score": 0.782,
+      "reason": "Gate Smashers is highly rated for exam-oriented clarity, making this 7-minute intro perfect for absolute beginners to grasp the basics quickly.",
+      "summary": [
+        "Learn the basic features of this famous chip",
+        "Understand what the different pins are for",
+        "See how much memory the chip can use",
+        "Find out how fast the chip processes data"
+      ]
+    },
+    {
+      "title": "Introduction to 8085 Microprocessor (\u03bcP)",
+      "url": "https://www.youtube.com/watch?v=-Q99XiiKfXg",
+      "duration": "21:08",
+      "channel": "Neso Academy",
+      "system_score": 0.608,
+      "ai_score": 0.96,
+      "final_score": 0.749,
+      "reason": "Neso Academy offers the highest teaching quality with a 21-minute comprehensive lecture that builds the foundation from word length upwards.",
+      "summary": [
+        "Get a simple overview of the chip design",
+        "Learn how it talks to other computer parts",
+        "Understand the basic history of microprocessors",
+        "See how it handles simple math tasks"
+      ]
+    },
+    {
+      "title": "Lec-8: Instruction in 8085 | 1B, 2B & 3B Instructions | Opcode & Operand | Microprocessor",
+      "url": "https://www.youtube.com/watch?v=ln6U1oqSOoo",
+      "duration": "11:23",
+      "channel": "Gate Smashers",
+      "system_score": 0.649,
+      "ai_score": 0.88,
+      "final_score": 0.741,
+      "reason": "Excellent breakdown of instruction sizes (1B, 2B, 3B) which is a common point of confusion for beginners.",
+      "summary": [
+        "Learn how to give the chip commands",
+        "Understand the different sizes of instructions",
+        "See how the chip reads specific codes",
+        "Learn where the chip finds its data"
+      ]
+    },
+    {
+      "title": "Architecture of 8085 Microprocessor: Data Flow and Working Explained | 8085",
+      "url": "https://www.youtube.com/watch?v=OK_LudRfBas",
+      "duration": "16:12",
+      "channel": "Engineering Funda",
+      "system_score": 0.619,
+      "ai_score": 0.9,
+      "final_score": 0.731,
+      "reason": "Engineering Funda is praised for technical accuracy and detailed data flow explanations that help students understand the 'working' of the chip.",
+      "summary": [
+        "Watch how information flows through the system",
+        "Understand the path data takes to move",
+        "Learn how the chip organizes its work",
+        "See how different parts connect to function"
+      ]
+    }
+  ]
+}

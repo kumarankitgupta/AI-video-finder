@@ -1,0 +1,85 @@
+{
+  "ts": 1776711064.144004,
+  "results": [
+    {
+      "title": "JavaScript Course for Beginners \u2013 Your First Step to Web Development",
+      "url": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+      "duration": "48:17",
+      "channel": "Programming with Mosh",
+      "system_score": 0.733,
+      "ai_score": 0.94,
+      "final_score": 0.816,
+      "reason": "Mosh is widely praised in comments for his 'clean code' approach and logical progression from variables to functions, making it the gold standard for absolute beginners.",
+      "summary": [
+        "Learn how to set up your coding environment",
+        "Understand how to use variables and constants",
+        "Master basic data types like strings and numbers",
+        "Write your first simple programs using basic logic"
+      ]
+    },
+    {
+      "title": "JavaScript tutorial for beginners \ud83c\udf10",
+      "url": "https://www.youtube.com/watch?v=Ihy0QziLDf0",
+      "duration": "12:03",
+      "channel": "Bro Code",
+      "system_score": 0.656,
+      "ai_score": 0.88,
+      "final_score": 0.745,
+      "reason": "Viewer appreciation highlights the step-by-step setup of the environment, which is crucial for beginners starting from zero.",
+      "summary": [
+        "Discover how to display messages on a webpage",
+        "Learn to take input from a website user",
+        "Perform basic math operations using simple code",
+        "Understand how to change text on a screen"
+      ]
+    },
+    {
+      "title": "JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue",
+      "url": "https://www.youtube.com/watch?v=eiC58R16hb8",
+      "duration": "12:35",
+      "channel": "Lydia Hallie",
+      "system_score": 0.633,
+      "ai_score": 0.9,
+      "final_score": 0.74,
+      "reason": "Exceptional visual teaching quality for the 'core' engine, but the topic (Event Loop) is often too advanced for a day-one beginner.",
+      "summary": [
+        "See how the browser handles multiple tasks at once",
+        "Learn how code waits for its turn to run",
+        "Understand how the computer manages timed events",
+        "Visualize how data moves through the hidden system"
+      ]
+    },
+    {
+      "title": "Lecture 5: Functions & Methods | JavaScript Full Course",
+      "url": "https://www.youtube.com/watch?v=P0XMXqDGttU",
+      "duration": "1:09:10",
+      "channel": "Shradha Khapra",
+      "system_score": 0.613,
+      "ai_score": 0.88,
+      "final_score": 0.72,
+      "reason": "Excellent depth on specific core concepts like functions, though the channel often mixes English with Hindi, which may affect the language preference score.",
+      "summary": [
+        "Learn to group code into reusable blocks",
+        "Understand how to pass information into functions",
+        "Master ways to perform actions on lists of data",
+        "Write cleaner code that is easier to read"
+      ]
+    },
+    {
+      "title": "100+ JavaScript Concepts you Need to Know",
+      "url": "https://www.youtube.com/watch?v=lkIFF4maKMU",
+      "duration": "12:24",
+      "channel": "Fireship",
+      "system_score": 0.658,
+      "ai_score": 0.78,
+      "final_score": 0.707,
+      "reason": "While highly popular, the rapid-fire pace is noted in comments as being better for review than for a beginner's first exposure to the core.",
+      "summary": [
+        "Get a quick overview of modern coding tools",
+        "Learn the vocabulary used by professional developers",
+        "Understand how different parts of the language connect",
+        "Discover advanced features in a very short time"
+      ]
+    }
+  ]
+}

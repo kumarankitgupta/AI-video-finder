@@ -1,0 +1,85 @@
+{
+  "ts": 1776320594.7518458,
+  "results": [
+    {
+      "title": "What I *actually* do as a Product Manager (in 2023)",
+      "url": "https://www.youtube.com/watch?v=Dnh0jP-GA0o",
+      "duration": "13:01",
+      "channel": "Chloe Shih",
+      "system_score": 0.77,
+      "ai_score": 0.78,
+      "final_score": 0.774,
+      "reason": "Highly relatable day-in-the-life format that clarifies the role's reality for beginners, backed by strong viewer engagement.",
+      "summary": [
+        "Daily tasks and routines of a modern manager",
+        "How to work with designers and engineers",
+        "Ways to solve problems for real users",
+        "The reality of meetings and decision making"
+      ]
+    },
+    {
+      "title": "Product Management 101: Everything You Need to Know (Full Course)",
+      "url": "https://www.youtube.com/watch?v=5nAeyqNuZYU",
+      "duration": "39:25",
+      "channel": "Explained Hub",
+      "system_score": 0.63,
+      "ai_score": 0.92,
+      "final_score": 0.746,
+      "reason": "The most comprehensive 'course' style video in the list, effectively combining multiple modules into a structured learning path.",
+      "summary": [
+        "Basic steps to build a successful product",
+        "How to research what customers really want",
+        "Setting goals and tracking your progress",
+        "Leading a team without being their boss"
+      ]
+    },
+    {
+      "title": "What do product managers do? - Agile Coach",
+      "url": "https://www.youtube.com/watch?v=yUOC-Y0f5ZQ",
+      "duration": "5:29",
+      "channel": "Atlassian",
+      "system_score": 0.661,
+      "ai_score": 0.84,
+      "final_score": 0.733,
+      "reason": "Professional production from a reputable industry leader (Atlassian) provides a concise, high-level overview perfect for day-one learners.",
+      "summary": [
+        "The main purpose of the management role",
+        "Balancing business needs with technical limits",
+        "How to prioritize the most important work",
+        "Connecting different teams to reach one goal"
+      ]
+    },
+    {
+      "title": "The Art of Product Management with Sachin Rekhi (ENG\u201905 W\u201905)",
+      "url": "https://www.youtube.com/watch?v=huTSPanUlQM",
+      "duration": "1:07:06",
+      "channel": "Wharton School",
+      "system_score": 0.601,
+      "ai_score": 0.86,
+      "final_score": 0.705,
+      "reason": "High-level academic and professional insights from Wharton that offer deep 'why' explanations, though perhaps dense for a total novice.",
+      "summary": [
+        "Finding the right vision for your product",
+        "How to design features that people love",
+        "Marketing strategies to help your product grow",
+        "Skills needed to lead a creative team"
+      ]
+    },
+    {
+      "title": "What Are the Basics of a #ProductManager Role by Google PM, Ankit Prasad",
+      "url": "https://www.youtube.com/watch?v=ntzB9pGsD3E",
+      "duration": "1:02:54",
+      "channel": "Product School",
+      "system_score": 0.601,
+      "ai_score": 0.86,
+      "final_score": 0.704,
+      "reason": "A deep-dive session from a Google PM that provides industry-standard perspectives, though the hour-long format requires high commitment.",
+      "summary": [
+        "Core responsibilities at a large tech company",
+        "How to think like a product owner",
+        "Simple frameworks for making tough choices",
+        "Tips for starting a career in management"
+      ]
+    }
+  ]
+}

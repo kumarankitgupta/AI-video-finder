@@ -1,0 +1,85 @@
+{
+  "ts": 1776711143.806558,
+  "results": [
+    {
+      "title": "JavaScript Course for Beginners \u2013 Your First Step to Web Development",
+      "url": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+      "duration": "48:17",
+      "channel": "Programming with Mosh",
+      "system_score": 0.803,
+      "ai_score": 0.92,
+      "final_score": 0.85,
+      "reason": "Mosh is widely praised in comments for his 'no-fluff' approach and logical progression, making it the gold standard for absolute beginners.",
+      "summary": [
+        "Learn how to write your first script",
+        "Understand how to store data in variables",
+        "See how to work with simple data types",
+        "Discover how to use functions and arrays"
+      ]
+    },
+    {
+      "title": "JavaScript Crash Course For Beginners",
+      "url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+      "duration": "1:40:30",
+      "channel": "Traversy Media",
+      "system_score": 0.652,
+      "ai_score": 0.94,
+      "final_score": 0.767,
+      "reason": "Traversy provides the most depth for a 'basics' video, covering modern ES6+ syntax that viewers find essential for real-world work.",
+      "summary": [
+        "Master the basic building blocks of code",
+        "Learn to change things on a webpage",
+        "Understand how to handle user mouse clicks",
+        "Build a simple project from the start"
+      ]
+    },
+    {
+      "title": "100+ JavaScript Concepts you Need to Know",
+      "url": "https://www.youtube.com/watch?v=lkIFF4maKMU",
+      "duration": "12:24",
+      "channel": "Fireship",
+      "system_score": 0.744,
+      "ai_score": 0.76,
+      "final_score": 0.75,
+      "reason": "While highly popular, the fast-paced '100+ concepts' format is better for a high-level overview than foundational learning.",
+      "summary": [
+        "Get a quick look at modern features",
+        "Learn how the language works behind scenes",
+        "Explore many different tools and ideas fast",
+        "Understand how to organize your code better"
+      ]
+    },
+    {
+      "title": "JavaScript tutorial for beginners \ud83c\udf10",
+      "url": "https://www.youtube.com/watch?v=Ihy0QziLDf0",
+      "duration": "12:03",
+      "channel": "Bro Code",
+      "system_score": 0.648,
+      "ai_score": 0.82,
+      "final_score": 0.717,
+      "reason": "Excellent step-by-step setup instructions (VS Code, HTML) make this very accessible for someone who has never written a line of code.",
+      "summary": [
+        "Start coding with easy to follow steps",
+        "Learn to show messages on the screen",
+        "Understand how to do math with code",
+        "Practice using simple logic and rules"
+      ]
+    },
+    {
+      "title": "Learn All the JavaScript Basics in 20 Minutes",
+      "url": "https://www.youtube.com/watch?v=xKOyDDuQSVY",
+      "duration": "20:32",
+      "channel": "Coding2GO",
+      "system_score": 0.659,
+      "ai_score": 0.78,
+      "final_score": 0.707,
+      "reason": "A solid, concise summary of syntax that viewers appreciate for its efficiency and lack of distractions.",
+      "summary": [
+        "Learn the most important parts very fast",
+        "Understand how to repeat tasks with loops",
+        "See how to make decisions in code",
+        "Build a solid base for web projects"
+      ]
+    }
+  ]
+}

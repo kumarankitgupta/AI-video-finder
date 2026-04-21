@@ -1,0 +1,85 @@
+{
+  "ts": 1776362955.913646,
+  "results": [
+    {
+      "title": "JavaScript Course for Beginners \u2013 Your First Step to Web Development",
+      "url": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+      "duration": "48:17",
+      "channel": "Programming with Mosh",
+      "system_score": 0.783,
+      "ai_score": 0.92,
+      "final_score": 0.838,
+      "reason": "Mosh is highly praised in comments for a structured, slow-paced approach that covers variables, types, and functions perfectly for a first-time learner.",
+      "summary": [
+        "Learn how to write your first lines of code",
+        "Understand how to use variables to store data",
+        "Master the basics of using functions and loops",
+        "Build a solid foundation for making websites work"
+      ]
+    },
+    {
+      "title": "JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue",
+      "url": "https://www.youtube.com/watch?v=eiC58R16hb8",
+      "duration": "12:35",
+      "channel": "Lydia Hallie",
+      "system_score": 0.645,
+      "ai_score": 0.88,
+      "final_score": 0.739,
+      "reason": "Exceptional visual animations explain the 'why' of the event loop, though the topic itself is slightly advanced for a day-one beginner.",
+      "summary": [
+        "See how the browser handles many tasks at once",
+        "Learn how the computer decides what to run next",
+        "Understand how timers and web tools work together",
+        "Watch how code moves through a waiting line"
+      ]
+    },
+    {
+      "title": "How JavaScript Works \ud83d\udd25& Execution Context | Namaste JavaScript Ep.1",
+      "url": "https://www.youtube.com/watch?v=ZvbzSrg0afE",
+      "duration": "4:54",
+      "channel": "Akshay Saini",
+      "system_score": 0.601,
+      "ai_score": 0.92,
+      "final_score": 0.729,
+      "reason": "Highly acclaimed for explaining the internal engine mechanics, though beginners might find the 'Execution Context' concept abstract at first.",
+      "summary": [
+        "Learn how the computer reads and runs your code",
+        "Understand the hidden box where everything happens",
+        "See how variables are stored before code runs",
+        "Discover why the order of code matters so much"
+      ]
+    },
+    {
+      "title": "JavaScript Visualized - Execution Contexts",
+      "url": "https://www.youtube.com/watch?v=zdGfo6I1yrA",
+      "duration": "11:41",
+      "channel": "Lydia Hallie",
+      "system_score": 0.593,
+      "ai_score": 0.92,
+      "final_score": 0.724,
+      "reason": "The visual representation of environment records is world-class, helping beginners visualize what is usually invisible in code.",
+      "summary": [
+        "Watch how code creates a space to run",
+        "Learn how the computer tracks different code parts",
+        "See what happens when you call a new function",
+        "Understand how the system cleans up finished tasks"
+      ]
+    },
+    {
+      "title": "Learn JavaScript OBJECTS in 7 minutes! \ud83e\uddcd",
+      "url": "https://www.youtube.com/watch?v=lo7o91qLzxc",
+      "duration": "7:01",
+      "channel": "Bro Code",
+      "system_score": 0.613,
+      "ai_score": 0.82,
+      "final_score": 0.696,
+      "reason": "Bro Code is consistently cited for clear, no-nonsense explanations of specific features like Objects, making it great for modular learning.",
+      "summary": [
+        "Learn how to group related data together easily",
+        "Understand how to give objects their own actions",
+        "See how to access information stored inside objects",
+        "Master creating real world items in your code"
+      ]
+    }
+  ]
+}

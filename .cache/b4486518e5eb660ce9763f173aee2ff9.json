@@ -1,0 +1,85 @@
+{
+  "ts": 1776336832.4002619,
+  "results": [
+    {
+      "title": "Large Language Models explained briefly",
+      "url": "https://www.youtube.com/watch?v=LPZh9BOjkQs",
+      "duration": "7:58",
+      "channel": "3Blue1Brown",
+      "system_score": 0.727,
+      "ai_score": 0.92,
+      "final_score": 0.804,
+      "reason": "Widely praised for world-class visualizations that make abstract concepts like word embeddings intuitive for absolute beginners.",
+      "summary": [
+        "How computers predict the next word in a sentence",
+        "The way machines turn words into lists of numbers",
+        "How models learn from vast amounts of internet text",
+        "Why these systems process information in layers of math"
+      ]
+    },
+    {
+      "title": "Transformers, the tech behind LLMs | Deep Learning Chapter 5",
+      "url": "https://www.youtube.com/watch?v=wjZofJX0v4M",
+      "duration": "27:14",
+      "channel": "3Blue1Brown",
+      "system_score": 0.718,
+      "ai_score": 0.92,
+      "final_score": 0.799,
+      "reason": "The gold standard for deep conceptual understanding, though the 27-minute length and technical detail may challenge some beginners.",
+      "summary": [
+        "How computers focus on the most important words",
+        "The way machines understand the context of a sentence",
+        "How data flows through a complex neural network",
+        "The math that helps AI find patterns in language"
+      ]
+    },
+    {
+      "title": "You\u2019re Not Behind (Yet): How to Learn AI in 17 Minutes",
+      "url": "https://www.youtube.com/watch?v=EWFFaKxsz_s",
+      "duration": "17:22",
+      "channel": "theMITmonk",
+      "system_score": 0.752,
+      "ai_score": 0.66,
+      "final_score": 0.715,
+      "reason": "Focuses more on the mindset and learning path for AI rather than the technical mechanics of how LLMs function.",
+      "summary": [
+        "A simple roadmap for starting your AI learning journey",
+        "How to use AI tools to boost your productivity",
+        "Why you do not need a math degree to succeed",
+        "The best free resources to keep your skills current"
+      ]
+    },
+    {
+      "title": "Generative AI in a Nutshell - how to survive and thrive in the age of AI",
+      "url": "https://www.youtube.com/watch?v=2IK3DFHRFfw",
+      "duration": "17:57",
+      "channel": "Henrik Kniberg",
+      "system_score": 0.642,
+      "ai_score": 0.82,
+      "final_score": 0.713,
+      "reason": "Uses a unique drawing-based storytelling style that viewers find exceptionally engaging and easy to follow for a high-level overview.",
+      "summary": [
+        "The basic difference between traditional and generative AI",
+        "How to use AI as a helpful personal assistant",
+        "Ways to stay relevant as technology changes quickly",
+        "The risks and benefits of using these new tools"
+      ]
+    },
+    {
+      "title": "How Large Language Models Work",
+      "url": "https://www.youtube.com/watch?v=5sLYAQS9sWQ",
+      "duration": "5:34",
+      "channel": "IBM Technology",
+      "system_score": 0.611,
+      "ai_score": 0.82,
+      "final_score": 0.694,
+      "reason": "Professional, concise whiteboard-style explanation that covers the 'what' and 'how' in a very short timeframe.",
+      "summary": [
+        "How models use probability to generate human-like text",
+        "The process of training a machine on huge datasets",
+        "Why the order of words matters to the computer",
+        "How AI translates human ideas into digital instructions"
+      ]
+    }
+  ]
+}

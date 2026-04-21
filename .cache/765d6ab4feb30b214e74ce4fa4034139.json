@@ -1,0 +1,85 @@
+{
+  "ts": 1776339193.210042,
+  "results": [
+    {
+      "title": "Authorization Explained: When to Use RBAC, ABAC, ACL & More",
+      "url": "https://www.youtube.com/watch?v=DT6Zy1X3ytM",
+      "duration": "11:03",
+      "channel": "Hayk Simonyan",
+      "system_score": 0.731,
+      "ai_score": 0.9,
+      "final_score": 0.798,
+      "reason": "High-quality production with clear timestamps that specifically contrast ABAC against RBAC and ACL for a comprehensive overview.",
+      "summary": [
+        "Learn how to control user access to data",
+        "Understand roles like admin or regular user",
+        "Discover how to set rules for specific items",
+        "Choose the best security method for your app"
+      ]
+    },
+    {
+      "title": "Explain Access Control Models| Discretionary DAC, Mandatory MAC, RBAC, Rule, Attribute, Risk based",
+      "url": "https://www.youtube.com/watch?v=PjZH-CO1hX0",
+      "duration": "20:39",
+      "channel": "CyberPlatter",
+      "system_score": 0.626,
+      "ai_score": 0.8,
+      "final_score": 0.695,
+      "reason": "A longer, more academic deep dive into multiple models including Risk-based, suitable for those wanting a broader security context.",
+      "summary": [
+        "Compare different ways to manage digital permissions",
+        "Learn about owner controlled and system controlled access",
+        "Understand how risk levels affect user entry",
+        "See how rules protect sensitive company information"
+      ]
+    },
+    {
+      "title": "Authorization EXPLAINED! \ud83d\udd10 RBAC vs ABAC vs ACL (with Examples) \ud83d\ude80",
+      "url": "https://www.youtube.com/watch?v=7CG5VQafaTI",
+      "duration": "10:50",
+      "channel": "SoftsWeb",
+      "system_score": 0.552,
+      "ai_score": 0.9,
+      "final_score": 0.691,
+      "reason": "Uses concrete examples to explain the 'why' behind different models, making it highly accessible for absolute beginners.",
+      "summary": [
+        "Explore simple examples of digital gatekeeping",
+        "Learn the difference between roles and attributes",
+        "Understand how lists track who can enter",
+        "See real world scenarios for each security type"
+      ]
+    },
+    {
+      "title": "Access Control Models Explained | DAC MAC RBAC ABAC | Cybersecurity Fundamentals - Infosec Guardians",
+      "url": "https://www.youtube.com/watch?v=hlbRzgg3lac",
+      "duration": "16:54",
+      "channel": "InfoSec Guardians",
+      "system_score": 0.563,
+      "ai_score": 0.84,
+      "final_score": 0.674,
+      "reason": "Excellent foundational video that explicitly lists ABAC in the title and covers cybersecurity fundamentals for beginners.",
+      "summary": [
+        "Master the basics of protecting computer systems",
+        "Learn how to assign permissions to groups",
+        "Understand strict security levels for government data",
+        "Discover how to manage access using specific traits"
+      ]
+    },
+    {
+      "title": "Day 12 | 30 Days of Identity Fundamentals: Attribute-Based Access Control (ABAC) Explained",
+      "url": "https://www.youtube.com/watch?v=uR-CG5xG-mY",
+      "duration": "12:29",
+      "channel": "Why NoT-IAM",
+      "system_score": 0.51,
+      "ai_score": 0.88,
+      "final_score": 0.658,
+      "reason": "Part of a structured series specifically dedicated to Identity Fundamentals, providing a very focused explanation of ABAC.",
+      "summary": [
+        "Learn how user details determine their access",
+        "Understand how time and location affect security",
+        "See how to create flexible permission rules",
+        "Discover modern ways to manage digital identities"
+      ]
+    }
+  ]
+}

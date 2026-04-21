@@ -1,0 +1,85 @@
+{
+  "ts": 1776361964.972394,
+  "results": [
+    {
+      "title": "Spring Boot Tutorial for Beginners [2025]",
+      "url": "https://www.youtube.com/watch?v=gJrjgg1KVL4",
+      "duration": "1:11:22",
+      "channel": "Programming with Mosh",
+      "system_score": 0.696,
+      "ai_score": 0.94,
+      "final_score": 0.793,
+      "reason": "Mosh is highly praised in comments for his structured, professional delivery that bridges the gap between 'what' and 'why' for beginners.",
+      "summary": [
+        "Learn how to set up your first project",
+        "Understand how to build simple web applications",
+        "Connect your app to a real database",
+        "Follow best practices for writing clean code"
+      ]
+    },
+    {
+      "title": "Spring Boot Tutorial for Beginners (Java Framework)",
+      "url": "https://www.youtube.com/watch?v=vtPkZShrvXQ",
+      "duration": "1:49:29",
+      "channel": "freeCodeCamp.org",
+      "system_score": 0.658,
+      "ai_score": 0.94,
+      "final_score": 0.771,
+      "reason": "Massive reach and comprehensive depth; comments highlight it as a 'one-stop shop' for mastering the framework from scratch.",
+      "summary": [
+        "Master the basics of the Java framework",
+        "Create and manage different application layers",
+        "Handle data using modern coding tools",
+        "Build a complete backend system from scratch"
+      ]
+    },
+    {
+      "title": "Spring Boot Project for Beginners",
+      "url": "https://www.youtube.com/watch?v=vlz9ina4Usk",
+      "duration": "1:41:40",
+      "channel": "Telusko",
+      "system_score": 0.632,
+      "ai_score": 0.88,
+      "final_score": 0.731,
+      "reason": "Telusko is a community favorite for his hands-on approach; viewers frequently mention his ability to make complex Java concepts feel simple.",
+      "summary": [
+        "Watch a full project built step by step",
+        "Learn how to organize your project files",
+        "Connect web pages to your server logic",
+        "Gain hands on experience with real features"
+      ]
+    },
+    {
+      "title": "Spring Boot Tutorial \u2013 Build Your First REST API in 15 Minutes (Beginner Guide)",
+      "url": "https://www.youtube.com/watch?v=wfj-Z9OQpCA",
+      "duration": "17:37",
+      "channel": "Alan Lands",
+      "system_score": 0.624,
+      "ai_score": 0.86,
+      "final_score": 0.719,
+      "reason": "Highly effective 'quick win' video that uses a project-based approach to teach REST basics in a short timeframe.",
+      "summary": [
+        "Build a working web service very quickly",
+        "Learn how to send and receive data",
+        "Create simple endpoints for your application",
+        "Test your new service using basic tools"
+      ]
+    },
+    {
+      "title": "The Ultimate Springboot Roadmap for Beginners & Java Developers | 2026",
+      "url": "https://www.youtube.com/watch?v=b-BllRzjPnM",
+      "duration": "18:41",
+      "channel": "Sanket Singh",
+      "system_score": 0.791,
+      "ai_score": 0.6,
+      "final_score": 0.714,
+      "reason": "Focuses on a high-level roadmap and career path rather than technical implementation, making it good for planning but low on actual coding.",
+      "summary": [
+        "See a clear path for your learning",
+        "Discover which skills to learn in order",
+        "Find out which tools are most important",
+        "Prepare for a career as a developer"
+      ]
+    }
+  ]
+}

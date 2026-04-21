@@ -1,0 +1,85 @@
+{
+  "ts": 1776337436.8603468,
+  "results": [
+    {
+      "title": "Step by Step - How to Build a House",
+      "url": "https://www.youtube.com/watch?v=q3eqVL-O3DQ",
+      "duration": "21:41",
+      "channel": "Electrician U",
+      "system_score": 0.746,
+      "ai_score": 0.84,
+      "final_score": 0.783,
+      "reason": "High clarity and logical sequencing make this the best general construction overview, though it lacks specific African context.",
+      "summary": [
+        "Learn the order of building a new home",
+        "Understand how the foundation and frame are made",
+        "See how pipes and wires are put inside",
+        "Discover how to finish the walls and floors"
+      ]
+    },
+    {
+      "title": "12 Steps of Construction",
+      "url": "https://www.youtube.com/watch?v=mbwuj58UEPg",
+      "duration": "7:04",
+      "channel": "The Structural World",
+      "system_score": 0.679,
+      "ai_score": 0.8,
+      "final_score": 0.727,
+      "reason": "A very accessible 12-step breakdown that is perfect for absolute beginners to understand the lifecycle of a project.",
+      "summary": [
+        "Follow the main stages of a building project",
+        "Learn how to prepare the ground for building",
+        "Understand how the skeleton of a house works",
+        "See the final steps to complete a structure"
+      ]
+    },
+    {
+      "title": "How to Read Construction Drawings | Beginners Guide to Blueprint Reading | Architectural Drawings",
+      "url": "https://www.youtube.com/watch?v=e5GVlJ_N68I",
+      "duration": "16:18",
+      "channel": "Kienen Koga",
+      "system_score": 0.62,
+      "ai_score": 0.84,
+      "final_score": 0.708,
+      "reason": "Excellent technical teaching on blueprint reading, though slightly more specialized than a general construction overview.",
+      "summary": [
+        "Learn what the lines and symbols mean",
+        "Understand how to read different building views",
+        "Find out how to measure sizes on paper",
+        "Gain confidence reading a basic house plan"
+      ]
+    },
+    {
+      "title": "How To Get Started In CONSTRUCTION Without EXPERIENCE [AND BE SUCCESSFUL]",
+      "url": "https://www.youtube.com/watch?v=kaBn0y_vDic",
+      "duration": "6:05",
+      "channel": "Construction Business Expert",
+      "system_score": 0.584,
+      "ai_score": 0.7,
+      "final_score": 0.63,
+      "reason": "Focuses more on career entry and business advice than the physical mechanics of building or African regional techniques.",
+      "summary": [
+        "Find out how to get your first job",
+        "Learn the best ways to learn on site",
+        "Discover how to grow your career quickly",
+        "Get tips on working well with a team"
+      ]
+    },
+    {
+      "title": "#Scoreboard: How China is helping Africa solve its housing crisis",
+      "url": "https://www.youtube.com/watch?v=gmQQ7yVR6Pg",
+      "duration": "7:10",
+      "channel": "CGTN Africa",
+      "system_score": 0.573,
+      "ai_score": 0.7,
+      "final_score": 0.624,
+      "reason": "Provides good regional context on African housing and Chinese involvement, but functions more as a news report than a 'how-to' guide.",
+      "summary": [
+        "See how new technology builds homes faster",
+        "Learn about partnerships between different countries",
+        "Understand how more people get affordable housing",
+        "Discover how big projects create local jobs"
+      ]
+    }
+  ]
+}

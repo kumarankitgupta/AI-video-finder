@@ -1,0 +1,85 @@
+{
+  "ts": 1776337278.3030488,
+  "results": [
+    {
+      "title": "Large Language Models explained briefly",
+      "url": "https://www.youtube.com/watch?v=LPZh9BOjkQs",
+      "duration": "7:58",
+      "channel": "3Blue1Brown",
+      "system_score": 0.778,
+      "ai_score": 0.94,
+      "final_score": 0.843,
+      "reason": "3Blue1Brown is world-renowned for visual intuition, and comments consistently highlight this as the gold standard for conceptual clarity for beginners.",
+      "summary": [
+        "How computers predict the next word in sentences",
+        "The way machines turn words into lists of numbers",
+        "How patterns help AI understand human language rules",
+        "Basic steps used to train large smart models"
+      ]
+    },
+    {
+      "title": "LLMs \u2014 How ChatGPT works & What is RAG? | Retrieval-Augmented Generation Explained \ud83d\udd25",
+      "url": "https://www.youtube.com/watch?v=hYZKrPOyEYk",
+      "duration": "15:25",
+      "channel": "CodeWithHarry",
+      "system_score": 0.644,
+      "ai_score": 0.8,
+      "final_score": 0.707,
+      "reason": "Strong reach and practical focus on RAG, though it leans slightly more toward implementation than pure theory.",
+      "summary": [
+        "The basic technology that powers tools like ChatGPT",
+        "How to give AI access to new information",
+        "Using external data to get more accurate answers",
+        "Simple ways to build your own smart chatbot"
+      ]
+    },
+    {
+      "title": "LLM Explained |  What is LLM",
+      "url": "https://www.youtube.com/watch?v=67_aMPDk2zw",
+      "duration": "4:17",
+      "channel": "codebasics",
+      "system_score": 0.625,
+      "ai_score": 0.82,
+      "final_score": 0.703,
+      "reason": "Excellent for absolute beginners due to its brevity and simple analogies, as noted in the high viewer appreciation for the 'under 5 minutes' format.",
+      "summary": [
+        "A simple definition of large language models",
+        "How these systems learn from massive amounts of text",
+        "Common tasks these tools can do for you",
+        "Why these models are changing the tech world"
+      ]
+    },
+    {
+      "title": "Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)",
+      "url": "https://www.youtube.com/watch?v=9vM4p9NN0Ts",
+      "duration": "1:44:31",
+      "channel": "Stanford Online",
+      "system_score": 0.622,
+      "ai_score": 0.82,
+      "final_score": 0.701,
+      "reason": "While highly authoritative, the 104-minute academic lecture format is often too dense for a casual beginner despite the high quality.",
+      "summary": [
+        "The core math behind building modern AI systems",
+        "How to teach computers to process long documents",
+        "Techniques for making models more reliable and useful",
+        "Advanced steps for creating high quality language tools"
+      ]
+    },
+    {
+      "title": "THIS is why large language models can understand the world",
+      "url": "https://www.youtube.com/watch?v=UKcWu1l_UNw",
+      "duration": "18:08",
+      "channel": "Algorithmic Simplicity",
+      "system_score": 0.589,
+      "ai_score": 0.84,
+      "final_score": 0.689,
+      "reason": "Excellent for understanding the 'why' behind LLM capabilities, though it requires a slightly higher baseline of interest than a 5-minute intro.",
+      "summary": [
+        "How AI finds hidden connections between different ideas",
+        "Why predicting words leads to deeper world knowledge",
+        "The way models organize information like a map",
+        "How simple math creates complex and smart behavior"
+      ]
+    }
+  ]
+}

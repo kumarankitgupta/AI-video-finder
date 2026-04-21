@@ -1,0 +1,85 @@
+{
+  "ts": 1776317500.236129,
+  "results": [
+    {
+      "title": "LeetCode was HARD until I Learned these 15 Patterns",
+      "url": "https://www.youtube.com/watch?v=DjYZk8nrXVY",
+      "duration": "13:00",
+      "channel": "Ashish Pratap Singh",
+      "system_score": 0.662,
+      "ai_score": 0.82,
+      "final_score": 0.725,
+      "reason": "Focuses on high-level pattern recognition (Sliding Window, Two Pointers) which is the gold standard for advanced DSA mastery according to viewer feedback.",
+      "summary": [
+        "Common coding patterns for solving problems",
+        "How to recognize different problem types",
+        "Ways to simplify complex coding challenges",
+        "Techniques to improve your logic skills"
+      ]
+    },
+    {
+      "title": "DSA Complete Series \ud83d\ude80 : Data Structures & Algorithms || 150 day Challenge",
+      "url": "https://www.youtube.com/watch?v=X2NVOSNBbxU",
+      "duration": "9:09",
+      "channel": "CodeHelp - by Babbar",
+      "system_score": 0.705,
+      "ai_score": 0.7,
+      "final_score": 0.703,
+      "reason": "While the video is short, it introduces a massive 150-day curriculum that viewers praise for its comprehensive nature and high-level rigor.",
+      "summary": [
+        "A complete roadmap for learning code",
+        "Daily habits for mastering technical skills",
+        "How to stay consistent while learning",
+        "Resources to help you practice daily"
+      ]
+    },
+    {
+      "title": "Learn Data Structures and Algorithms as Absolute Beginner to Advanced! \ud83d\udd25",
+      "url": "https://www.youtube.com/watch?v=9kQ1JUDleWg",
+      "duration": "11:03",
+      "channel": "Love Babbar",
+      "system_score": 0.599,
+      "ai_score": 0.78,
+      "final_score": 0.672,
+      "reason": "Love Babbar's content is highly regarded for its depth, and this video serves as the gateway to an advanced, deep-dive playlist.",
+      "summary": [
+        "Basics for people starting from scratch",
+        "Moving from simple to advanced topics",
+        "The best order to learn concepts",
+        "Building a strong foundation in programming"
+      ]
+    },
+    {
+      "title": "I Wasted 6 Months on DSA Playlists... Here's What Actually Works",
+      "url": "https://www.youtube.com/watch?v=wkxZFLkVBvI",
+      "duration": "11:01",
+      "channel": "Harshita Verma",
+      "system_score": 0.605,
+      "ai_score": 0.76,
+      "final_score": 0.667,
+      "reason": "Provides a meta-analysis of learning strategies that helps advanced learners avoid 'tutorial hell' and focus on active problem-solving.",
+      "summary": [
+        "Mistakes to avoid when watching tutorials",
+        "Why active practice beats passive watching",
+        "Better ways to spend your study time",
+        "How to actually remember what you learn"
+      ]
+    },
+    {
+      "title": "How I Mastered Data Structures and Algorithms",
+      "url": "https://www.youtube.com/watch?v=F-ao3Q6I2Fc",
+      "duration": "10:45",
+      "channel": "Ashish Pratap Singh",
+      "system_score": 0.599,
+      "ai_score": 0.76,
+      "final_score": 0.663,
+      "reason": "Provides a personal retrospective on mastering complex topics, which viewers find helpful for transitioning from intermediate to advanced levels.",
+      "summary": [
+        "Personal steps to become a pro",
+        "How to handle difficult coding topics",
+        "Tips for passing technical job interviews",
+        "A mindset for solving hard problems"
+      ]
+    }
+  ]
+}

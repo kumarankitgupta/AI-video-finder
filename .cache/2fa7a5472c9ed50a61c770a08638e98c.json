@@ -1,0 +1,85 @@
+{
+  "ts": 1776291607.1626828,
+  "results": [
+    {
+      "title": "Two Sum - Leetcode 1 - HashMap - Python",
+      "url": "https://www.youtube.com/watch?v=KLlXCFG5TnA",
+      "duration": "8:26",
+      "channel": "NeetCode",
+      "system_score": 0.673,
+      "ai_score": 0.98,
+      "final_score": 0.796,
+      "reason": "Widely considered the gold standard for this specific problem; comments consistently praise the 'why' behind the HashMap approach.",
+      "summary": [
+        "Find two numbers that add to a target",
+        "Use a hash map to store seen numbers",
+        "Check if the needed value is already stored",
+        "Solve the problem in one pass through data"
+      ]
+    },
+    {
+      "title": "LeetCode Question with Solution | Two Sum Problem | Placement Series",
+      "url": "https://www.youtube.com/watch?v=x52qXQyzsns",
+      "duration": "15:35",
+      "channel": "Jenny's Lectures CS IT",
+      "system_score": 0.62,
+      "ai_score": 0.92,
+      "final_score": 0.74,
+      "reason": "Highly rated for beginners; Jenny is known for breaking down logic step-by-step for students.",
+      "summary": [
+        "Understand the basic logic of the problem",
+        "Compare every pair of numbers to find sums",
+        "Learn how to optimize the slow approach",
+        "Write clear code to return the correct indices"
+      ]
+    },
+    {
+      "title": "LeetCode Exercise in Java Tutorial - Two Sum FAST Solution",
+      "url": "https://www.youtube.com/watch?v=Yyyi12oaK94",
+      "duration": "23:36",
+      "channel": "Coding with John",
+      "system_score": 0.613,
+      "ai_score": 0.9,
+      "final_score": 0.728,
+      "reason": "Excellent Java-specific walkthrough that explains the logic clearly for those not using Python.",
+      "summary": [
+        "Solve the challenge using the Java language",
+        "Improve speed by avoiding nested loops",
+        "Handle edge cases and potential input errors",
+        "Test the code against different sets of numbers"
+      ]
+    },
+    {
+      "title": "Data Structure and Algorithm Patterns for LeetCode Interviews \u2013 Tutorial",
+      "url": "https://www.youtube.com/watch?v=Z_c4byLrNBU",
+      "duration": "1:15:03",
+      "channel": "freeCodeCamp.org and AlgoMonster",
+      "system_score": 0.636,
+      "ai_score": 0.86,
+      "final_score": 0.725,
+      "reason": "Comprehensive and highly respected, but the 75-minute length may be overwhelming for a beginner seeking a single problem solution.",
+      "summary": [
+        "Identify common patterns used in coding interviews",
+        "Learn when to use specific data structures",
+        "Master techniques like sliding windows and pointers",
+        "Apply these strategies to many different problems"
+      ]
+    },
+    {
+      "title": "3Sum - Leetcode 15 - Python",
+      "url": "https://www.youtube.com/watch?v=jzZsG8n2R9A",
+      "duration": "12:54",
+      "channel": "NeetCode",
+      "system_score": 0.645,
+      "ai_score": 0.82,
+      "final_score": 0.715,
+      "reason": "Excellent teaching quality, but covers '3Sum' which is a more advanced variation unsuitable for a 'Two Sum' beginner.",
+      "summary": [
+        "Find three numbers that sum to zero",
+        "Sort the list to make searching easier",
+        "Use two pointers to scan the array",
+        "Avoid duplicate answers in the final result"
+      ]
+    }
+  ]
+}

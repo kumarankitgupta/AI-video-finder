@@ -1,0 +1,85 @@
+{
+  "ts": 1776319950.06729,
+  "results": [
+    {
+      "title": "n8n Quick Start Tutorial: Build Your First Workflow [2025]",
+      "url": "https://www.youtube.com/watch?v=4cQWJViybAQ",
+      "duration": "14:47",
+      "channel": "n8n and Max Tkacz",
+      "system_score": 0.693,
+      "ai_score": 0.96,
+      "final_score": 0.8,
+      "reason": "As the official channel, it focuses on conceptual foundations and core nodes, which comments highlight as the most structured starting point for true beginners.",
+      "summary": [
+        "Learn how to navigate the main dashboard",
+        "Connect different apps to work together automatically",
+        "Set up a simple trigger to start tasks",
+        "Move data between services without writing code"
+      ]
+    },
+    {
+      "title": "n8n Quick Start Tutorial: Build Your First AI Agent [2026]",
+      "url": "https://www.youtube.com/watch?v=GuaKeDS6UKU",
+      "duration": "20:51",
+      "channel": "n8n and Max Tkacz",
+      "system_score": 0.663,
+      "ai_score": 0.88,
+      "final_score": 0.75,
+      "reason": "Excellent follow-up to the basics, focusing on the AI Agent niche which is the primary use case for n8n in 2025/2026.",
+      "summary": [
+        "Build a smart assistant using artificial intelligence",
+        "Connect your workflow to a chat window",
+        "Give your AI agent specific tools to use",
+        "Automate complex responses using simple logic blocks"
+      ]
+    },
+    {
+      "title": "n8n Tutorial for Beginners - Build Your First Free AI Agent",
+      "url": "https://www.youtube.com/watch?v=dpoMEcXjVH8",
+      "duration": "23:10",
+      "channel": "Kevin Stratvert",
+      "system_score": 0.612,
+      "ai_score": 0.94,
+      "final_score": 0.743,
+      "reason": "Kevin Stratvert is a master of beginner pacing; his videos are consistently cited in comments as the easiest to follow for absolute novices.",
+      "summary": [
+        "Install the software for free on your computer",
+        "Create a custom chatbot that answers your questions",
+        "Link your AI to real-time online data",
+        "Test and run your first automated AI project"
+      ]
+    },
+    {
+      "title": "n8n will change your life as a developer...",
+      "url": "https://www.youtube.com/watch?v=bS9R6aCVEzw",
+      "duration": "5:56",
+      "channel": "Fireship",
+      "system_score": 0.727,
+      "ai_score": 0.76,
+      "final_score": 0.74,
+      "reason": "Fireship provides a high-speed, high-production overview that is excellent for conceptual understanding, though it lacks the step-by-step depth of a full tutorial.",
+      "summary": [
+        "Understand why visual coding saves you time",
+        "See how to replace expensive subscription tools",
+        "Learn to build powerful apps with simple nodes",
+        "Discover how to host your own automation server"
+      ]
+    },
+    {
+      "title": "n8n Tutorial for Beginners: How to Build AI Automations for FREE (Step-by-Step)",
+      "url": "https://www.youtube.com/watch?v=Fy1UCBcgF2o",
+      "duration": "19:15",
+      "channel": "Charlie Chang",
+      "system_score": 0.639,
+      "ai_score": 0.88,
+      "final_score": 0.735,
+      "reason": "Charlie Chang is known for extreme clarity for non-technical audiences, and comments praise the 'step-by-step' nature of the self-hosting guide.",
+      "summary": [
+        "Follow a step-by-step guide for beginners",
+        "Automate repetitive daily tasks using smart AI",
+        "Connect your email and calendar to n8n",
+        "Save money by building your own automation tools"
+      ]
+    }
+  ]
+}

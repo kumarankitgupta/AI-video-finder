@@ -1,0 +1,85 @@
+{
+  "ts": 1776336608.713033,
+  "results": [
+    {
+      "title": "Learn Databricks in Under 2 Hours",
+      "url": "https://www.youtube.com/watch?v=CoqZTt528ew",
+      "duration": "1:40:15",
+      "channel": "Alex The Analyst",
+      "system_score": 0.636,
+      "ai_score": 0.94,
+      "final_score": 0.758,
+      "reason": "The most comprehensive resource for a beginner, moving from zero to functional knowledge with high viewer appreciation for the structured curriculum.",
+      "summary": [
+        "Set up your first data workspace easily",
+        "Learn how to organize and store data",
+        "Write simple code to analyze large files",
+        "Build automated paths for your data projects"
+      ]
+    },
+    {
+      "title": "Learn Databricks for FREE (Step-by-Step Guide)",
+      "url": "https://www.youtube.com/watch?v=trJTgk8miw4",
+      "duration": "24:56",
+      "channel": "Data with Baraa",
+      "system_score": 0.706,
+      "ai_score": 0.82,
+      "final_score": 0.751,
+      "reason": "Highly practical for beginners as it focuses on the 'Community Edition' setup, allowing users to follow along for free as promised.",
+      "summary": [
+        "Create a free account to practice skills",
+        "Navigate the main dashboard and tools",
+        "Upload files to the cloud storage area",
+        "Run your first basic data analysis script"
+      ]
+    },
+    {
+      "title": "Intro To Databricks - What Is Databricks",
+      "url": "https://www.youtube.com/watch?v=QNdiGZFaUFs",
+      "duration": "12:28",
+      "channel": "Seattle Data Guy",
+      "system_score": 0.644,
+      "ai_score": 0.84,
+      "final_score": 0.722,
+      "reason": "Excellent conceptual clarity; the transcript focuses on the 'Lakehouse' architecture and comparisons to Snowflake, which helps beginners understand the 'why'.",
+      "summary": [
+        "Understand how this tool helps data teams",
+        "See how different roles work together here",
+        "Learn why big companies use this platform",
+        "Discover the main features of the software"
+      ]
+    },
+    {
+      "title": "Learn Databricks in 10 Minutes | Most Important Skill for Data Engineering",
+      "url": "https://www.youtube.com/watch?v=76nW5QeXFeU",
+      "duration": "13:30",
+      "channel": "Darshil Parmar",
+      "system_score": 0.648,
+      "ai_score": 0.82,
+      "final_score": 0.717,
+      "reason": "Darshil Parmar is highly rated by viewers for career-focused context, explaining why Databricks matters in the modern data stack.",
+      "summary": [
+        "Quickly learn the most important core features",
+        "See how to process data very fast",
+        "Understand the basics of modern data work",
+        "Get started with a simple project walkthrough"
+      ]
+    },
+    {
+      "title": "What is Databricks?",
+      "url": "https://www.youtube.com/watch?v=P5-A60xmAbw",
+      "duration": "7:16",
+      "channel": "codebasics",
+      "system_score": 0.61,
+      "ai_score": 0.86,
+      "final_score": 0.71,
+      "reason": "Codebasics is renowned for simple analogies; this video excels at making the complex Spark/Databricks relationship intuitive for novices.",
+      "summary": [
+        "Learn the basic definition of the platform",
+        "See how it handles massive amounts of info",
+        "Understand the benefits for business users",
+        "Compare this tool to other common software"
+      ]
+    }
+  ]
+}

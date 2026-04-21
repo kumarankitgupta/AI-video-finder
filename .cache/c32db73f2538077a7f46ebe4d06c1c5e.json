@@ -1,0 +1,85 @@
+{
+  "ts": 1776344343.113507,
+  "results": [
+    {
+      "title": "JavaScript Course for Beginners \u2013 Your First Step to Web Development",
+      "url": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+      "duration": "48:17",
+      "channel": "Programming with Mosh",
+      "system_score": 0.781,
+      "ai_score": 0.9,
+      "final_score": 0.829,
+      "reason": "Mosh is highly praised in comments for his 'no-fluff' approach and logical progression from variables to functions.",
+      "summary": [
+        "Learn how to set up your coding environment",
+        "Understand how to store data using variables",
+        "Write basic instructions for the web browser",
+        "Build simple functions to perform specific tasks"
+      ]
+    },
+    {
+      "title": "JavaScript Tutorial for Beginners [JS Crash Course]",
+      "url": "https://www.youtube.com/watch?v=FtaQSdrl7YA",
+      "duration": "1:37:14",
+      "channel": "TechWorld with Nana",
+      "system_score": 0.632,
+      "ai_score": 0.96,
+      "final_score": 0.763,
+      "reason": "The 97-minute duration allows for deep explanations of the 'why', making it the most comprehensive educational choice.",
+      "summary": [
+        "Master the core building blocks of programming",
+        "Learn how to organize and group information",
+        "Create logic to make decisions in code",
+        "Connect your code to a real website"
+      ]
+    },
+    {
+      "title": "JavaScript tutorial for beginners \ud83c\udf10",
+      "url": "https://www.youtube.com/watch?v=Ihy0QziLDf0",
+      "duration": "12:03",
+      "channel": "Bro Code",
+      "system_score": 0.703,
+      "ai_score": 0.84,
+      "final_score": 0.758,
+      "reason": "Excellent step-by-step setup instructions in the transcript make it the most accessible entry point for absolute novices.",
+      "summary": [
+        "Get a quick introduction to coding basics",
+        "Display messages and interact with the user",
+        "Perform math and handle numbers in code",
+        "Start writing your very first script today"
+      ]
+    },
+    {
+      "title": "100+ JavaScript Concepts you Need to Know",
+      "url": "https://www.youtube.com/watch?v=lkIFF4maKMU",
+      "duration": "12:24",
+      "channel": "Fireship",
+      "system_score": 0.706,
+      "ai_score": 0.7,
+      "final_score": 0.704,
+      "reason": "While popular, the high-speed delivery of 100 concepts is often cited as overwhelming for true beginners.",
+      "summary": [
+        "Explore a wide map of modern coding ideas",
+        "Understand how the language works behind scenes",
+        "Learn the names of important industry tools",
+        "Discover advanced features used by professional developers"
+      ]
+    },
+    {
+      "title": "JavaScript Tutorial for Beginners - Learn in 15 Minutes ( Crash Course 2026 )",
+      "url": "https://www.youtube.com/watch?v=TioxU0wdMQg",
+      "duration": "13:49",
+      "channel": "ITower",
+      "system_score": 0.653,
+      "ai_score": 0.78,
+      "final_score": 0.704,
+      "reason": "A well-paced modern crash course that viewers appreciate for its updated 2024/2025 context.",
+      "summary": [
+        "Learn the most essential parts very fast",
+        "Understand how to change text on pages",
+        "Write code that reacts when buttons click",
+        "Get a high-level view of web development"
+      ]
+    }
+  ]
+}

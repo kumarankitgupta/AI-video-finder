@@ -1,0 +1,85 @@
+{
+  "ts": 1776317892.100492,
+  "results": [
+    {
+      "title": "What I *actually* do as a Product Manager (in 2023)",
+      "url": "https://www.youtube.com/watch?v=Dnh0jP-GA0o",
+      "duration": "13:01",
+      "channel": "Chloe Shih",
+      "system_score": 0.685,
+      "ai_score": 0.84,
+      "final_score": 0.747,
+      "reason": "Highly relatable 'day-in-the-life' style that excels at explaining the 'what' and 'why' of the role for absolute newcomers.",
+      "summary": [
+        "Learn how a manager spends their daily work hours",
+        "Understand how to talk with different team members",
+        "Discover the real tasks beyond just planning products",
+        "See what it takes to succeed in this role"
+      ]
+    },
+    {
+      "title": "Introduction to Product Management | What is Product Management ? | Great Learning",
+      "url": "https://www.youtube.com/watch?v=ravLfnYuqmA",
+      "duration": "1:48:07",
+      "channel": "Great Learning",
+      "system_score": 0.614,
+      "ai_score": 0.92,
+      "final_score": 0.736,
+      "reason": "The massive duration ensures comprehensive coverage of the entire PM lifecycle, making it a one-stop-shop for serious beginners.",
+      "summary": [
+        "Learn the basic steps for building new products",
+        "Understand how to solve problems for your customers",
+        "Discover how to lead a team toward one goal",
+        "Study the full life cycle of a successful product"
+      ]
+    },
+    {
+      "title": "What do product managers do? - Agile Coach",
+      "url": "https://www.youtube.com/watch?v=yUOC-Y0f5ZQ",
+      "duration": "5:29",
+      "channel": "Atlassian",
+      "system_score": 0.637,
+      "ai_score": 0.88,
+      "final_score": 0.734,
+      "reason": "Produced by Atlassian, this offers the most professional, high-level conceptual clarity for someone who knows nothing about the field.",
+      "summary": [
+        "Learn why this role connects business and technology",
+        "Understand how to prioritize the most important features",
+        "Discover how to balance customer needs and goals",
+        "See how teams work together to build software"
+      ]
+    },
+    {
+      "title": "The Art of Product Management with Sachin Rekhi (ENG\u201905 W\u201905)",
+      "url": "https://www.youtube.com/watch?v=huTSPanUlQM",
+      "duration": "1:07:06",
+      "channel": "Wharton School",
+      "system_score": 0.607,
+      "ai_score": 0.9,
+      "final_score": 0.724,
+      "reason": "Academic yet practical depth from a Wharton lecture that explains the 'Art' and nuance behind PM decision-making.",
+      "summary": [
+        "Learn the creative side of designing great products",
+        "Understand how to find the best market opportunities",
+        "Discover ways to measure if a product is working",
+        "Hear expert advice on building a long-term career"
+      ]
+    },
+    {
+      "title": "15 Product Management Terms and Concepts Everyone In Tech Should Know",
+      "url": "https://www.youtube.com/watch?v=Se1aTnFD500",
+      "duration": "12:12",
+      "channel": "Aakash Mehta",
+      "system_score": 0.597,
+      "ai_score": 0.84,
+      "final_score": 0.694,
+      "reason": "Excellent for beginners to learn the 'language' of tech, providing immediate utility through vocabulary and concepts.",
+      "summary": [
+        "Learn the common words used in tech offices",
+        "Understand basic ideas for tracking product growth",
+        "Discover how teams organize their daily work tasks",
+        "Feel more confident talking with engineers and designers"
+      ]
+    }
+  ]
+}

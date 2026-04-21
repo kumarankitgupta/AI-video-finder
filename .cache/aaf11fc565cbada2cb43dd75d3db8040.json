@@ -1,0 +1,85 @@
+{
+  "ts": 1776319708.751812,
+  "results": [
+    {
+      "title": "CHICKEN KARAHI RECIPE RESTAURANT STYLE | CHICKEN KARAHI | SPICE EATS",
+      "url": "https://www.youtube.com/watch?v=XDYNofJ1zI8",
+      "duration": "4:35",
+      "channel": "Spice Eats",
+      "system_score": 0.672,
+      "ai_score": 0.88,
+      "final_score": 0.755,
+      "reason": "The best match; Karahi and Kadhai are the same dish, and Spice Eats is noted for clear, English-friendly instructions.",
+      "summary": [
+        "Learn to cook spicy chicken in a wok",
+        "Use fresh tomatoes to make a thick sauce",
+        "Master the steps for a restaurant style taste",
+        "Finish the dish with fresh ginger and herbs"
+      ]
+    },
+    {
+      "title": "Chicken Karahi is the 35 minute curry you won't regret",
+      "url": "https://www.youtube.com/watch?v=fEguvHE0Clg",
+      "duration": "8:57",
+      "channel": "Imran Ali",
+      "system_score": 0.621,
+      "ai_score": 0.88,
+      "final_score": 0.724,
+      "reason": "Strong contender; explains the 'why' behind the 35-minute Karahi (Kadhai) method in English with good depth.",
+      "summary": [
+        "Make a delicious curry in thirty five minutes",
+        "Follow easy steps for a quick family meal",
+        "Learn how to brown chicken for better flavor",
+        "Create a rich sauce without using many tools"
+      ]
+    },
+    {
+      "title": "CHICKEN CURRY FOR BACHELORS | SIMPLE CHICKEN CURRY FOR BEGINNERS | CHICKEN GRAVY",
+      "url": "https://www.youtube.com/watch?v=jwyge5daKUQ",
+      "duration": "3:45",
+      "channel": "Spice Eats",
+      "system_score": 0.776,
+      "ai_score": 0.64,
+      "final_score": 0.721,
+      "reason": "While highly rated for beginners, this is a basic curry, not the specific 'Kadhai' style requested.",
+      "summary": [
+        "Cook a basic chicken curry with simple steps",
+        "Use common spices found in every kitchen pantry",
+        "Perfect for people cooking for the first time",
+        "Make a tasty gravy that goes with rice"
+      ]
+    },
+    {
+      "title": "\u0995\u09a1\u09bc\u09be\u0987 \u099a\u09bf\u0995\u09c7\u09a8 \u09b0\u09c7\u09b8\u09bf\u09aa\u09bf \u098f\u0995\u09a6\u09ae \u09a7\u09be\u09ac\u09be \u09b8\u09cd\u099f\u09be\u0987\u09b2\u09c7  | kadai chicken recipe Bangla | Atanur rannaghar",
+      "url": "https://www.youtube.com/watch?v=y3kj1hAaAJc",
+      "duration": "6:24",
+      "channel": "Atanur Rannaghar",
+      "system_score": 0.664,
+      "ai_score": 0.66,
+      "final_score": 0.662,
+      "reason": "Correct dish, but penalized for being in Bangla, which does not meet the user's English language preference.",
+      "summary": [
+        "Learn to make chicken with a smoky flavor",
+        "Follow a traditional style used in roadside cafes",
+        "Prepare a special spice mix from scratch easily",
+        "Cook chicken until it is soft and juicy"
+      ]
+    },
+    {
+      "title": "ONE POT CHICKEN & RICE FOR BEGINNERS (WITH TIPS & TRICKS) | CHICKEN PULAO",
+      "url": "https://www.youtube.com/watch?v=1bOb2lv9kfM",
+      "duration": "8:40",
+      "channel": "Curries With Bumbi",
+      "system_score": 0.657,
+      "ai_score": 0.66,
+      "final_score": 0.658,
+      "reason": "Excellent beginner teaching quality, but the content is Pulao (rice), not Kadhai chicken.",
+      "summary": [
+        "Cook chicken and rice in just one pot",
+        "Learn tips to keep rice fluffy and light",
+        "Save time with this easy all in one meal",
+        "Follow simple tricks for the best tasting results"
+      ]
+    }
+  ]
+}

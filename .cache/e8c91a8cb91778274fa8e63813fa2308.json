@@ -1,0 +1,85 @@
+{
+  "ts": 1776341427.306688,
+  "results": [
+    {
+      "title": "Django Tutorial for Beginners \u2013 Build Powerful Backends",
+      "url": "https://www.youtube.com/watch?v=rHux0gMZ3Eg",
+      "duration": "1:02:36",
+      "channel": "Programming with Mosh",
+      "system_score": 0.76,
+      "ai_score": 0.9,
+      "final_score": 0.816,
+      "reason": "Mosh is highly praised for his structured pedagogical approach, making complex frameworks like Django accessible through clear, step-by-step instruction.",
+      "summary": [
+        "Learn how to set up a Django project",
+        "Understand how to create basic web pages",
+        "See how to manage data with models",
+        "Build a simple functional website backend"
+      ]
+    },
+    {
+      "title": "Spring Boot Tutorial for Beginners [2025]",
+      "url": "https://www.youtube.com/watch?v=gJrjgg1KVL4",
+      "duration": "1:11:22",
+      "channel": "Programming with Mosh",
+      "system_score": 0.749,
+      "ai_score": 0.88,
+      "final_score": 0.801,
+      "reason": "Consistent with Mosh's high teaching standards, this video effectively simplifies the Java Spring ecosystem for newcomers despite the framework's inherent complexity.",
+      "summary": [
+        "Learn the basics of the Spring framework",
+        "Build a web service using Java code",
+        "Understand how to connect to a database",
+        "Create tools that handle user requests"
+      ]
+    },
+    {
+      "title": "Backend web development - a complete overview",
+      "url": "https://www.youtube.com/watch?v=XBu54nfzxAQ",
+      "duration": "12:58",
+      "channel": "SuperSimpleDev",
+      "system_score": 0.735,
+      "ai_score": 0.88,
+      "final_score": 0.793,
+      "reason": "SuperSimpleDev excels at high-level conceptual overviews, providing the perfect mental map for a beginner to understand how backend components fit together.",
+      "summary": [
+        "Understand how servers talk to browsers",
+        "Learn the role of a backend developer",
+        "Explore how databases store important information",
+        "See how different web parts work together"
+      ]
+    },
+    {
+      "title": "The Complete Backend Developer Roadmap",
+      "url": "https://www.youtube.com/watch?v=OeEHJgzqS1k",
+      "duration": "8:24",
+      "channel": "Programming with Mosh",
+      "system_score": 0.729,
+      "ai_score": 0.82,
+      "final_score": 0.766,
+      "reason": "This serves as an excellent navigational guide for beginners to understand the 'what' and 'why' of the backend learning path without getting bogged down in code.",
+      "summary": [
+        "Follow a step-by-step path for learning",
+        "Discover which programming languages to study",
+        "Learn about essential tools and technologies",
+        "Plan your career as a backend engineer"
+      ]
+    },
+    {
+      "title": "API Design and Architecture  - Backend Engineering Intro (1 Hour)",
+      "url": "https://www.youtube.com/watch?v=XvFmUE-36Kc",
+      "duration": "51:43",
+      "channel": "Caleb Curry",
+      "system_score": 0.643,
+      "ai_score": 0.86,
+      "final_score": 0.73,
+      "reason": "Caleb Curry focuses heavily on the 'why' of architecture and API design, offering deeper theoretical grounding than standard syntax tutorials.",
+      "summary": [
+        "Learn how apps share data with others",
+        "Understand how to organize your code structure",
+        "Explore different ways to build web links",
+        "See how to keep your data safe"
+      ]
+    }
+  ]
+}

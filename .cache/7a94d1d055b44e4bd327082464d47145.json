@@ -1,0 +1,85 @@
+{
+  "ts": 1776364078.204809,
+  "results": [
+    {
+      "title": "HOW TO BAKE AND DECORATE A BIRTHDAY cake from scratch | VANILLA CAKE RECIPE for beginners in 2025",
+      "url": "https://www.youtube.com/watch?v=WSxLLLOe1D0",
+      "duration": "11:14",
+      "channel": "Ceekoni_bakes",
+      "system_score": 0.682,
+      "ai_score": 0.94,
+      "final_score": 0.785,
+      "reason": "Specifically targeted at 2025 beginners with both baking and decorating steps, providing the most 'from scratch' value.",
+      "summary": [
+        "Mix simple ingredients to make fresh cake batter",
+        "Bake a soft vanilla cake from the start",
+        "Spread smooth frosting over the finished cake",
+        "Add pretty decorations for a perfect birthday look"
+      ]
+    },
+    {
+      "title": "Easy Vanilla Sponge Cake Without Oven Recipe | How To Make Basic Sponge Cake | Plain Sponge Cake",
+      "url": "https://www.youtube.com/watch?v=yrzOQ2Ssqnw",
+      "duration": "3:39",
+      "channel": "Piyas Kitchen",
+      "system_score": 0.806,
+      "ai_score": 0.72,
+      "final_score": 0.772,
+      "reason": "Excellent for beginners without an oven, though the short duration limits the depth of the explanation.",
+      "summary": [
+        "Make a fluffy cake without using an oven",
+        "Use a large pot to bake on the stove",
+        "Mix basic pantry items for a light sponge",
+        "Learn a simple way to cook at home"
+      ]
+    },
+    {
+      "title": "Basic Sponge Cake",
+      "url": "https://www.youtube.com/watch?v=d1PbHGtQaaE",
+      "duration": "15:08",
+      "channel": "Sanjeev Kapoor Khazana ",
+      "system_score": 0.68,
+      "ai_score": 0.9,
+      "final_score": 0.768,
+      "reason": "Sanjeev Kapoor is a master educator; the 15-minute length ensures every 'why' is explained for a novice.",
+      "summary": [
+        "Follow expert steps for a classic sponge cake",
+        "Learn the right way to mix your batter",
+        "Get tips for a light and airy texture",
+        "Master the foundation for many different desserts"
+      ]
+    },
+    {
+      "title": "How to Make a Cake at Home (Step-by-Step for Beginners in 16 Minutes!) \ud83c\udf82",
+      "url": "https://www.youtube.com/watch?v=cIjJ9Bce3tI",
+      "duration": "16:51",
+      "channel": "Amanda van der Gulik - The Clever Dough Lady",
+      "system_score": 0.677,
+      "ai_score": 0.9,
+      "final_score": 0.766,
+      "reason": "The 16-minute step-by-step format is specifically designed for the 'Clever Dough' beginner audience.",
+      "summary": [
+        "Follow a slow guide for your first cake",
+        "Prepare your baking pans the right way",
+        "Check if your cake is fully cooked inside",
+        "Avoid common mistakes that beginners often make"
+      ]
+    },
+    {
+      "title": "Classic Vanilla Cake Recipe | How to Make Birthday Cake",
+      "url": "https://www.youtube.com/watch?v=qtlhdIfojmc",
+      "duration": "5:47",
+      "channel": "The Cooking Foodie",
+      "system_score": 0.701,
+      "ai_score": 0.86,
+      "final_score": 0.765,
+      "reason": "High production value and a comprehensive approach including frosting make this a complete guide for a first-timer.",
+      "summary": [
+        "Bake a traditional vanilla cake with ease",
+        "Make a rich and creamy butter frosting",
+        "Layer the cake for a professional look",
+        "Create a tasty treat for any special party"
+      ]
+    }
+  ]
+}

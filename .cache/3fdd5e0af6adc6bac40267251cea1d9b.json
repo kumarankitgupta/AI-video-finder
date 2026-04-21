@@ -1,0 +1,85 @@
+{
+  "ts": 1776291799.6783848,
+  "results": [
+    {
+      "title": "Two Sum - Leetcode 1 - HashMap - Python",
+      "url": "https://www.youtube.com/watch?v=KLlXCFG5TnA",
+      "duration": "8:26",
+      "channel": "NeetCode",
+      "system_score": 0.67,
+      "ai_score": 0.96,
+      "final_score": 0.786,
+      "reason": "Widely considered the gold standard for this problem, NeetCode explains the 'why' behind the HashMap approach with exceptional clarity and visual aids.",
+      "summary": [
+        "Find two numbers that add to a target",
+        "Learn how to use a simple hash map",
+        "Speed up the search for the second number",
+        "Write clean and efficient code in Python"
+      ]
+    },
+    {
+      "title": "LeetCode Question with Solution | Two Sum Problem | Placement Series",
+      "url": "https://www.youtube.com/watch?v=x52qXQyzsns",
+      "duration": "15:35",
+      "channel": "Jenny's Lectures CS IT",
+      "system_score": 0.62,
+      "ai_score": 0.92,
+      "final_score": 0.74,
+      "reason": "Jenny's Lectures are renowned for a classroom-style teaching approach that breaks down logic very slowly, making it ideal for absolute beginners.",
+      "summary": [
+        "Understand the problem logic through clear examples",
+        "Compare slow and fast ways to solve it",
+        "Step through the math behind the solution",
+        "Prepare for coding interviews with basic logic"
+      ]
+    },
+    {
+      "title": "LeetCode Exercise in Java Tutorial - Two Sum FAST Solution",
+      "url": "https://www.youtube.com/watch?v=Yyyi12oaK94",
+      "duration": "23:36",
+      "channel": "Coding with John",
+      "system_score": 0.613,
+      "ai_score": 0.9,
+      "final_score": 0.728,
+      "reason": "Coding with John provides a very relatable, conversational teaching style that explains the code line-by-line, which is highly effective for beginners.",
+      "summary": [
+        "Solve the problem using the Java language",
+        "Avoid checking the same numbers twice",
+        "Store numbers in a list for quick lookup",
+        "Improve your code speed for better performance"
+      ]
+    },
+    {
+      "title": "Data Structure and Algorithm Patterns for LeetCode Interviews \u2013 Tutorial",
+      "url": "https://www.youtube.com/watch?v=Z_c4byLrNBU",
+      "duration": "1:15:03",
+      "channel": "freeCodeCamp.org and AlgoMonster",
+      "system_score": 0.626,
+      "ai_score": 0.8,
+      "final_score": 0.696,
+      "reason": "A high-quality comprehensive course, but the 75-minute duration is inefficient for a beginner specifically targeting the Two Sum solution.",
+      "summary": [
+        "Identify common patterns used in many problems",
+        "Learn how to approach difficult coding questions",
+        "Master techniques that work for different scenarios",
+        "Build a strong foundation for technical interviews"
+      ]
+    },
+    {
+      "title": "Leetcode | 1. Two Sum | Easy | Java Solution",
+      "url": "https://www.youtube.com/watch?v=kGN46Z3y4WM",
+      "duration": "5:41",
+      "channel": "Developer Docs",
+      "system_score": 0.622,
+      "ai_score": 0.8,
+      "final_score": 0.693,
+      "reason": "A concise, no-nonsense Java walkthrough that is highly accessible for beginners who want a quick but accurate solution.",
+      "summary": [
+        "Get a quick walkthrough of the solution",
+        "See how to write the code in Java",
+        "Check each number once to save time",
+        "Return the correct positions of the two numbers"
+      ]
+    }
+  ]
+}

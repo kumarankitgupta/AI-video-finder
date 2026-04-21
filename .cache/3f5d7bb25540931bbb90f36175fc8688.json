@@ -1,0 +1,85 @@
+{
+  "ts": 1776403594.9671848,
+  "results": [
+    {
+      "title": "Node.js Tutorial for Beginners: Learn Node in 1 Hour",
+      "url": "https://www.youtube.com/watch?v=TlB_eWDSMt4",
+      "duration": "1:18:16",
+      "channel": "Programming with Mosh",
+      "system_score": 0.816,
+      "ai_score": 0.94,
+      "final_score": 0.866,
+      "reason": "Mosh is highly praised in comments for his structured approach, and the transcript shows a clear, high-level conceptual introduction to APIs and runtimes.",
+      "summary": [
+        "Understand what Node is and how it works",
+        "Learn to use built-in tools for basic tasks",
+        "Manage and share code using the package manager",
+        "Build a simple web server from the ground up"
+      ]
+    },
+    {
+      "title": "Node.js Ultimate Beginner\u2019s Guide in 7 Easy Steps",
+      "url": "https://www.youtube.com/watch?v=ENrzD9HAZK4",
+      "duration": "16:20",
+      "channel": "Fireship",
+      "system_score": 0.75,
+      "ai_score": 0.82,
+      "final_score": 0.778,
+      "reason": "Fireship provides an excellent fast-paced overview with high production value, though the transcript's mention of Deno and 2020 context is slightly dated.",
+      "summary": [
+        "Learn the history and purpose of the platform",
+        "Install the software and run your first script",
+        "Understand how to handle files and data",
+        "Create a fast web application in seven steps"
+      ]
+    },
+    {
+      "title": "Node.js Crash Course",
+      "url": "https://www.youtube.com/watch?v=fBNz5xF-Kx4",
+      "duration": "1:30:08",
+      "channel": "Traversy Media",
+      "system_score": 0.65,
+      "ai_score": 0.92,
+      "final_score": 0.758,
+      "reason": "Traversy Media is a gold standard for crash courses; the transcript confirms a comprehensive look at modules and fundamentals with strong viewer appreciation.",
+      "summary": [
+        "Master the core modules for building applications",
+        "Work with the computer file system directly",
+        "Handle web requests and send back responses",
+        "Deploy a real project to a live server"
+      ]
+    },
+    {
+      "title": "Node JS Tutorial | Crash Course",
+      "url": "https://www.youtube.com/watch?v=vJEO57B05Sg",
+      "duration": "1:28:10",
+      "channel": "Telusko",
+      "system_score": 0.615,
+      "ai_score": 0.84,
+      "final_score": 0.705,
+      "reason": "Telusko provides a very deep dive (88 mins) and the transcript shows a helpful comparison of Node vs other languages to provide context.",
+      "summary": [
+        "Learn why this tool is popular for developers",
+        "Write code that runs outside a web browser",
+        "Connect different parts of your app together",
+        "Create a basic website using modern coding tricks"
+      ]
+    },
+    {
+      "title": "Node.js Crash Course for Beginners Tutorial - Learn Node Basics in 30 Minutes!",
+      "url": "https://www.youtube.com/watch?v=2LUdnb-mls0",
+      "duration": "33:48",
+      "channel": "codeSTACKr",
+      "system_score": 0.63,
+      "ai_score": 0.78,
+      "final_score": 0.69,
+      "reason": "A solid, concise 30-minute option that the transcript shows focuses heavily on the 'what is node' definition for absolute beginners.",
+      "summary": [
+        "Quickly set up your coding environment for work",
+        "Learn to import and export code easily",
+        "Build a functional web server in minutes",
+        "Understand how to use external code libraries"
+      ]
+    }
+  ]
+}

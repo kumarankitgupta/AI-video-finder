@@ -1,0 +1,85 @@
+{
+  "ts": 1776337946.67429,
+  "results": [
+    {
+      "title": "Transformers, the tech behind LLMs | Deep Learning Chapter 5",
+      "url": "https://www.youtube.com/watch?v=wjZofJX0v4M",
+      "duration": "27:14",
+      "channel": "3Blue1Brown",
+      "system_score": 0.773,
+      "ai_score": 0.94,
+      "final_score": 0.84,
+      "reason": "3Blue1Brown is renowned for world-class visualizations that explain the 'why' behind LLMs, making complex math intuitive for beginners.",
+      "summary": [
+        "How computers turn words into lists of numbers",
+        "The way machines learn patterns in human language",
+        "How models predict the next word in a sentence",
+        "The basic structure that makes modern AI work"
+      ]
+    },
+    {
+      "title": "Attention in transformers, step-by-step | Deep Learning Chapter 6",
+      "url": "https://www.youtube.com/watch?v=eMlx5fFNoYc",
+      "duration": "26:10",
+      "channel": "3Blue1Brown",
+      "system_score": 0.654,
+      "ai_score": 0.94,
+      "final_score": 0.768,
+      "reason": "This is the definitive deep-dive into the 'Attention' mechanism, highly praised by viewers for making the most difficult part of transformers accessible.",
+      "summary": [
+        "How words gain meaning from other nearby words",
+        "The process of focusing on the most important information",
+        "How the system calculates relationships between different terms",
+        "Moving data to update what each word represents"
+      ]
+    },
+    {
+      "title": "Attention for Neural Networks, Clearly Explained!!!",
+      "url": "https://www.youtube.com/watch?v=PSs6nxngL6k",
+      "duration": "15:51",
+      "channel": "StatQuest with Josh Starmer",
+      "system_score": 0.612,
+      "ai_score": 0.9,
+      "final_score": 0.727,
+      "reason": "Josh Starmer's StatQuest is the gold standard for beginners, using simple language and 'Triple Bam!' moments to ensure comprehension.",
+      "summary": [
+        "Why paying attention helps computers translate languages better",
+        "How to score the importance of every word",
+        "The math used to link related ideas together",
+        "A simple look at how data flows through layers"
+      ]
+    },
+    {
+      "title": "Transformers for beginners | What are they and how do they work",
+      "url": "https://www.youtube.com/watch?v=_UVfwBqcnbM",
+      "duration": "19:59",
+      "channel": "AssemblyAI",
+      "system_score": 0.634,
+      "ai_score": 0.82,
+      "final_score": 0.708,
+      "reason": "AssemblyAI provides a very structured, high-level overview specifically tailored for beginners entering the field of NLP.",
+      "summary": [
+        "A high-level look at how AI processes text",
+        "The difference between older and newer computer models",
+        "How the system handles entire sentences at once",
+        "Real-world examples of what these tools can do"
+      ]
+    },
+    {
+      "title": "Illustrated Guide to Transformers Neural Network: A step by step explanation",
+      "url": "https://www.youtube.com/watch?v=4Bdc55j80l8",
+      "duration": "15:01",
+      "channel": "The AI Hacker",
+      "system_score": 0.629,
+      "ai_score": 0.78,
+      "final_score": 0.689,
+      "reason": "The step-by-step illustrated approach is highly effective for visual learners who find the original 'Attention is All You Need' paper too dense.",
+      "summary": [
+        "Visual steps showing how information travels through AI",
+        "How the model keeps track of word order",
+        "The way the computer encodes and decodes messages",
+        "Breaking down complex parts into easy visual shapes"
+      ]
+    }
+  ]
+}

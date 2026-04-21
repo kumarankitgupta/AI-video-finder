@@ -1,0 +1,85 @@
+{
+  "ts": 1776363535.0027158,
+  "results": [
+    {
+      "title": "Large Language Models explained briefly",
+      "url": "https://www.youtube.com/watch?v=LPZh9BOjkQs",
+      "duration": "7:58",
+      "channel": "3Blue1Brown",
+      "system_score": 0.761,
+      "ai_score": 0.92,
+      "final_score": 0.825,
+      "reason": "3Blue1Brown is renowned for visual intuition, and comments highlight this as the perfect high-level conceptual starting point for non-technical users.",
+      "summary": [
+        "How computers predict the next word in text",
+        "The way machines turn words into lists of numbers",
+        "How models learn patterns from massive amounts of data",
+        "The basic process of generating human-like responses"
+      ]
+    },
+    {
+      "title": "Transformers, the tech behind LLMs | Deep Learning Chapter 5",
+      "url": "https://www.youtube.com/watch?v=wjZofJX0v4M",
+      "duration": "27:14",
+      "channel": "3Blue1Brown",
+      "system_score": 0.719,
+      "ai_score": 0.92,
+      "final_score": 0.799,
+      "reason": "While slightly more technical, it provides the gold-standard visual explanation of the transformer architecture that viewers call 'unrivaled' in clarity.",
+      "summary": [
+        "How computers focus on the most important words",
+        "The way information flows through a neural network",
+        "How words change meaning based on surrounding text",
+        "The math that powers modern artificial intelligence tools"
+      ]
+    },
+    {
+      "title": "Google\u2019s AI Course for Beginners (in 10 minutes)!",
+      "url": "https://www.youtube.com/watch?v=Yq0QkCxoTHM",
+      "duration": "9:18",
+      "channel": "Jeff Su",
+      "system_score": 0.654,
+      "ai_score": 0.78,
+      "final_score": 0.704,
+      "reason": "Jeff Su provides a structured roadmap and summary of Google's official curriculum, which viewers appreciate for its efficiency and 'no-fluff' delivery.",
+      "summary": [
+        "A quick overview of free online AI classes",
+        "The difference between traditional and generative AI",
+        "How to use AI responsibly in your work",
+        "Ways to earn certificates for your professional resume"
+      ]
+    },
+    {
+      "title": "LLM Explained |  What is LLM",
+      "url": "https://www.youtube.com/watch?v=67_aMPDk2zw",
+      "duration": "4:17",
+      "channel": "codebasics",
+      "system_score": 0.59,
+      "ai_score": 0.82,
+      "final_score": 0.682,
+      "reason": "Codebasics excels at 'explain like I'm five' analogies, making this 4-minute primer highly effective for absolute beginners according to viewer feedback.",
+      "summary": [
+        "A simple definition of large language models",
+        "Examples of how we use AI every day",
+        "How these models are trained using the internet",
+        "The future impact of AI on different industries"
+      ]
+    },
+    {
+      "title": "How ChatGPT Works? | Working of ChatGPT in 6 Minutes | ChatGPT For Beginners | Simplilearn",
+      "url": "https://www.youtube.com/watch?v=4qGrteTY1EM",
+      "duration": "6:16",
+      "channel": "Simplilearn",
+      "system_score": 0.585,
+      "ai_score": 0.74,
+      "final_score": 0.647,
+      "reason": "Simplilearn uses a corporate-style animated format that viewers find easy to follow for a quick understanding of the ChatGPT ecosystem.",
+      "summary": [
+        "The step-by-step process of how chatbots think",
+        "How humans help train AI to be helpful",
+        "The technology used to understand your questions",
+        "Why the system remembers what you said earlier"
+      ]
+    }
+  ]
+}

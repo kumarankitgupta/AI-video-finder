@@ -1,0 +1,85 @@
+{
+  "ts": 1776316691.5915132,
+  "results": [
+    {
+      "title": "But what is a neural network? | Deep learning chapter 1",
+      "url": "https://www.youtube.com/watch?v=aircAruvnKk",
+      "duration": "18:40",
+      "channel": "3Blue1Brown",
+      "system_score": 0.761,
+      "ai_score": 0.96,
+      "final_score": 0.841,
+      "reason": "Widely regarded as the gold standard for visual intuition, with comments consistently praising the 'aha' moments regarding neurons and layers.",
+      "summary": [
+        "How computers see images using small numbers",
+        "The way layers connect to find patterns",
+        "How simple parts build up complex ideas",
+        "The basic math behind artificial brain cells"
+      ]
+    },
+    {
+      "title": "The Essential Main Ideas of Neural Networks",
+      "url": "https://www.youtube.com/watch?v=CqOfi41LfDw",
+      "duration": "18:54",
+      "channel": "StatQuest with Josh Starmer",
+      "system_score": 0.643,
+      "ai_score": 0.94,
+      "final_score": 0.762,
+      "reason": "Josh Starmer's signature style breaks down complex math into 'small, simple steps' that viewers find uniquely non-intimidating.",
+      "summary": [
+        "How to use data to make predictions",
+        "The role of simple lines and curves",
+        "How the computer fixes its own mistakes",
+        "Building blocks that make smart decisions"
+      ]
+    },
+    {
+      "title": "1: Introduction to Neural Networks and Deep Learning; Training Deep NNs",
+      "url": "https://www.youtube.com/watch?v=kyQ0CRkYhy4",
+      "duration": "57:05",
+      "channel": "MIT OpenCourseWare",
+      "system_score": 0.704,
+      "ai_score": 0.84,
+      "final_score": 0.758,
+      "reason": "High academic rigor from MIT that provides excellent structure, though the pace and length may be intimidating for absolute beginners.",
+      "summary": [
+        "Foundations of how machines learn from data",
+        "Teaching a computer to recognize specific things",
+        "Ways to make learning faster and better",
+        "Real world uses for these smart systems"
+      ]
+    },
+    {
+      "title": "How Deep Neural Networks Work - Full Course for Beginners",
+      "url": "https://www.youtube.com/watch?v=dPWYUELwIdM",
+      "duration": "3:50:57",
+      "channel": "freeCodeCamp.org",
+      "system_score": 0.674,
+      "ai_score": 0.88,
+      "final_score": 0.757,
+      "reason": "A comprehensive marathon course that viewers appreciate for its 'zero to hero' approach, though its length requires significant commitment.",
+      "summary": [
+        "Step by step guide to building software",
+        "How to organize information in a network",
+        "Testing the system to see if it works",
+        "Complete overview of modern computer learning"
+      ]
+    },
+    {
+      "title": "Watching Neural Networks Learn",
+      "url": "https://www.youtube.com/watch?v=TkwXa7Cvfr8",
+      "duration": "25:28",
+      "channel": "Emergent Garden",
+      "system_score": 0.683,
+      "ai_score": 0.86,
+      "final_score": 0.754,
+      "reason": "Excellent use of visualization to show the 'learning' process, which viewers find highly effective for conceptual understanding.",
+      "summary": [
+        "Visual look at how computers gain knowledge",
+        "Watching patterns change as the system learns",
+        "How the network improves over many tries",
+        "Seeing the hidden logic inside the machine"
+      ]
+    }
+  ]
+}

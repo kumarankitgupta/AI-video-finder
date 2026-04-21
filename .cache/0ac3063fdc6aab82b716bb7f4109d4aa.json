@@ -1,0 +1,85 @@
+{
+  "ts": 1776316607.75491,
+  "results": [
+    {
+      "title": "The ONLY Chess Guide you need (1 hour+)",
+      "url": "https://www.youtube.com/watch?v=r7WNog6y-UU",
+      "duration": "1:20:12",
+      "channel": "ChessPage1",
+      "system_score": 0.708,
+      "ai_score": 0.86,
+      "final_score": 0.769,
+      "reason": "The 80-minute duration and comprehensive timestamps indicate a deep dive that is highly valuable for serious intermediate study.",
+      "summary": [
+        "Learn how every chess piece moves and works",
+        "Master the basic rules to start playing games",
+        "Understand how to control the center of the board",
+        "Discover simple ways to attack and defend pieces"
+      ]
+    },
+    {
+      "title": "35 Vital Chess Principles | Opening, Middlegame, and Endgame Principles - Chess Strategy and Ideas",
+      "url": "https://www.youtube.com/watch?v=nXyJdetptXg",
+      "duration": "18:51",
+      "channel": "Chess Vibes",
+      "system_score": 0.742,
+      "ai_score": 0.8,
+      "final_score": 0.765,
+      "reason": "Chess Vibes is known for structured, principle-based learning that bridges the gap between beginner and intermediate levels effectively.",
+      "summary": [
+        "Follow smart rules for the start of the game",
+        "Learn how to improve your pieces in the middle",
+        "Understand how to win when few pieces remain",
+        "Build a solid plan for every stage of play"
+      ]
+    },
+    {
+      "title": "7 MOST COMMON Chess Mistakes",
+      "url": "https://www.youtube.com/watch?v=SXrKRA_KZ5k",
+      "duration": "37:17",
+      "channel": "GothamChess",
+      "system_score": 0.689,
+      "ai_score": 0.88,
+      "final_score": 0.765,
+      "reason": "Excellent for intermediates; it uses a long-form format to explain the 'why' behind common mistakes, which is superior for actual improvement.",
+      "summary": [
+        "Identify the most frequent errors that lose games",
+        "Learn how to stop giving away free pieces",
+        "Understand why moving the same piece twice hurts",
+        "Discover how to keep your king safe from danger"
+      ]
+    },
+    {
+      "title": "Basic Chess Openings Explained",
+      "url": "https://www.youtube.com/watch?v=8IlJ3v8I4Z8",
+      "duration": "8:51",
+      "channel": "GothamChess",
+      "system_score": 0.713,
+      "ai_score": 0.84,
+      "final_score": 0.764,
+      "reason": "GothamChess has massive reach and high viewer appreciation for making complex opening concepts accessible and entertaining.",
+      "summary": [
+        "Learn the best ways to start a chess match",
+        "Understand why controlling the middle is very important",
+        "See how to develop your pieces quickly and safely",
+        "Get familiar with the most popular opening moves"
+      ]
+    },
+    {
+      "title": "Fischer's 3 Rules to Prevent 90% of Your Chess Mistakes",
+      "url": "https://www.youtube.com/watch?v=XRNpz7fra9k",
+      "duration": "12:04",
+      "channel": "Remote Chess Academy",
+      "system_score": 0.688,
+      "ai_score": 0.82,
+      "final_score": 0.741,
+      "reason": "Remote Chess Academy uses classic principles (Fischer's rules) to provide a clear, actionable framework for reducing errors.",
+      "summary": [
+        "Apply three simple rules to avoid big blunders",
+        "Learn to check for threats before every single move",
+        "Understand how to keep your pieces working together",
+        "Improve your focus to stop making easy mistakes"
+      ]
+    }
+  ]
+}

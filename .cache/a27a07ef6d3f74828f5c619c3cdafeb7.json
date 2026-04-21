@@ -1,0 +1,85 @@
+{
+  "ts": 1776343933.570388,
+  "results": [
+    {
+      "title": "Software Testing Tutorial For Beginners | Manual & Automation Testing | Selenium Training | Edureka",
+      "url": "https://www.youtube.com/watch?v=T3q6QcCQZQg",
+      "duration": "1:00:52",
+      "channel": "edureka!",
+      "system_score": 0.763,
+      "ai_score": 0.84,
+      "final_score": 0.794,
+      "reason": "Comprehensive hour-long session that bridges manual to automation concepts, highly rated for its structured curriculum approach.",
+      "summary": [
+        "Learn the basics of manual and automated testing",
+        "Understand why we need to test software products",
+        "Discover how to use tools like Selenium effectively",
+        "See how testing fits into the development cycle"
+      ]
+    },
+    {
+      "title": "Roadmap to QA/Automation Tester | How To Become an Automation Tester | Where & How To start?",
+      "url": "https://www.youtube.com/watch?v=Hjt0SCeGrBY",
+      "duration": "23:33",
+      "channel": "SDET- QA",
+      "system_score": 0.687,
+      "ai_score": 0.86,
+      "final_score": 0.756,
+      "reason": "Highly praised by the QA community for providing a realistic, actionable roadmap that explains the 'how to start' phase perfectly.",
+      "summary": [
+        "Follow a clear path to become a tester",
+        "Learn which programming languages you should study first",
+        "Find the best tools for building your career",
+        "Get tips on how to start your journey"
+      ]
+    },
+    {
+      "title": "Automation Testing Tutorial for Beginners | Software Testing Certification Training | Edureka",
+      "url": "https://www.youtube.com/watch?v=QtZ4yV49RtA",
+      "duration": "27:53",
+      "channel": "edureka!",
+      "system_score": 0.678,
+      "ai_score": 0.82,
+      "final_score": 0.735,
+      "reason": "A more condensed version of the Edureka masterclass focusing specifically on certification-aligned automation basics.",
+      "summary": [
+        "Understand the main benefits of using automation tools",
+        "Learn how to choose the right testing software",
+        "See how to write your first automated script",
+        "Explore different types of automated testing methods"
+      ]
+    },
+    {
+      "title": "Software Testing Explained in 100 Seconds",
+      "url": "https://www.youtube.com/watch?v=u6QfIXgjwGQ",
+      "duration": "2:16",
+      "channel": "Fireship",
+      "system_score": 0.659,
+      "ai_score": 0.84,
+      "final_score": 0.731,
+      "reason": "The best 'big picture' introduction available; extremely high clarity and speed for someone who knows nothing about testing.",
+      "summary": [
+        "Learn what software testing is in simple terms",
+        "Understand the difference between bugs and features",
+        "See why testing saves time and money later",
+        "Discover common ways developers check their own code"
+      ]
+    },
+    {
+      "title": "Automation Testing Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=RbSlW8jZFe8",
+      "duration": "7:01",
+      "channel": "Guru99",
+      "system_score": 0.691,
+      "ai_score": 0.78,
+      "final_score": 0.727,
+      "reason": "Excellent high-level conceptual overview that defines 'what' and 'why' clearly for absolute beginners in a short timeframe.",
+      "summary": [
+        "Learn when to switch from manual to automation",
+        "Understand the basic steps of the testing process",
+        "See how to pick tasks for automated tools",
+        "Discover how to make testing faster and easier"
+      ]
+    }
+  ]
+}
