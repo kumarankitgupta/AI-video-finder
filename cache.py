@@ -9,7 +9,17 @@ import time
 
 from models import UserQuery
 
-CACHE_DIR = os.path.join(os.path.dirname(__file__), ".cache")
+
+def _default_cache_dir() -> str:
+    # Vercel/serverless: /var/task is read-only; only /tmp is writable.
+    if os.environ.get("CACHE_DIR"):
+        return os.environ["CACHE_DIR"]
+    if os.environ.get("VERCEL"):
+        return "/tmp/ai-video-finder-cache"
+    return os.path.join(os.path.dirname(__file__), ".cache")
+
+
+CACHE_DIR = _default_cache_dir()
 CACHE_TTL = 3600  # 1 hour
 
 
