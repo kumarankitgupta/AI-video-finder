@@ -7,6 +7,8 @@ import re
 
 import httpx
 
+from pydantic import ValidationError
+
 from config import API_URL, MODEL, OPENROUTER_API_KEY
 from models import AIEvaluation, EnrichedVideo, ScoredVideo, UserQuery
 
@@ -80,7 +82,31 @@ def _parse_ai_response(text: str) -> list[AIEvaluation]:
             data = json.loads(match.group())
         else:
             return []
-    return [AIEvaluation(**item) for item in data]
+
+    if isinstance(data, dict):
+        for key in ("results", "evaluations", "videos", "data"):
+            if key in data and isinstance(data[key], list):
+                data = data[key]
+                break
+        else:
+            return []
+
+    if not isinstance(data, list):
+        return []
+
+    out: list[AIEvaluation] = []
+    for item in data:
+        if not isinstance(item, dict):
+            continue
+        raw_idx = item.get("video_index")
+        if raw_idx is None:
+            continue
+        try:
+            item = {**item, "video_index": int(raw_idx)}
+            out.append(AIEvaluation(**item))
+        except (ValueError, TypeError, ValidationError):
+            continue
+    return out
 
 
 def evaluate_videos(

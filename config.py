@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "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")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
 MODEL = os.getenv("MODEL", "google/gemini-3-flash-preview")
 API_URL = os.getenv("API_URL", "https://openrouter.ai/api/v1/chat/completions")
 
