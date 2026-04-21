@@ -13,6 +13,14 @@ const STAGES = [
   'Generating summaries',
 ]
 
+/** Production API origin; local dev uses Vite proxy (relative /api → localhost:8000). */
+const API_BASE =
+  import.meta.env.VITE_API_BASE_URL != null && import.meta.env.VITE_API_BASE_URL !== ''
+    ? import.meta.env.VITE_API_BASE_URL.replace(/\/$/, '')
+    : import.meta.env.DEV
+      ? ''
+      : 'https://ai-video-finder-ofsv.vercel.app'
+
 export default function App() {
   const [view, setView] = useState('home')
   const [query, setQuery] = useState(null)
@@ -45,7 +53,7 @@ export default function App() {
     }, 800)
 
     try {
-      const res = await fetch('/api/search', {
+      const res = await fetch(`${API_BASE}/api/search`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(searchQuery),
